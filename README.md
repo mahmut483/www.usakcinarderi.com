@@ -26,6 +26,9 @@ Kullanılan Teknolojiler
 Geliştirici
 
 Mahmut Karaarslan
+
 Software Developer
+
 GitHub: https://github.com/mahmut483
+
 Linkedin: https://www.linkedin.com/in/mahmut-karaarslan-822560336
