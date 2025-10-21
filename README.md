@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Uşak Çınar Deri Kurumsal Web Sitesi
 
-## Getting Started
+Bu proje, Uşak Çınar Deri için hazırlanmış, 4 farklı dilde (Türkçe, İngilizce, Rusça ve İtalyanca) çalışan kurumsal web sitesidir.
+Site, modern tasarım anlayışıyla geliştirilmiş olup mobil cihazlarda da tam uyumlu (responsive) bir yapıya sahiptir.
 
-First, run the development server:
+Kullanılan Teknolojiler
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Next.js – Hızlı, SEO uyumlu ve sunucu tarafı render
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+TypeScript – Tip güvenliği ve ölçeklenebilir yapı
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Tailwind CSS – Esnek ve modern kullanıcı arayüzleri geliştirmek için
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Özellikler
 
-## Learn More
+4 dil desteği (i18n çoklu dil yapısı)
 
-To learn more about Next.js, take a look at the following resources:
+SEO dostu sayfa yapısı
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Responsive (mobil uyumlu) tasarım
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Modern, kurumsal arayüz
 
-## Deploy on Vercel
+Kolay içerik yönetimi
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Geliştirici
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Mahmut Karaarslan
+Software Developer
+GitHub: https://github.com/mahmut483
+Linkedin: https://www.linkedin.com/in/mahmut-karaarslan-822560336
