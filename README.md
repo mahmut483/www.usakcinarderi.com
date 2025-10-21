@@ -5,23 +5,17 @@ Site, modern tasarım anlayışıyla geliştirilmiş olup mobil cihazlarda da ta
 
 Kullanılan Teknolojiler
 
-Next.js – Hızlı, SEO uyumlu ve sunucu tarafı render
-
-TypeScript – Tip güvenliği ve ölçeklenebilir yapı
-
-Tailwind CSS – Esnek ve modern kullanıcı arayüzleri geliştirmek için
+1- Next.js – Hızlı, SEO uyumlu ve sunucu tarafı render
+2- TypeScript – Tip güvenliği ve ölçeklenebilir yapı
+3- Tailwind CSS – Esnek ve modern kullanıcı arayüzleri geliştirmek için
 
 Özellikler
 
-4 dil desteği (i18n çoklu dil yapısı)
-
-SEO dostu sayfa yapısı
-
-Responsive (mobil uyumlu) tasarım
-
-Modern, kurumsal arayüz
-
-Kolay içerik yönetimi
+1- 4 dil desteği (i18n çoklu dil yapısı)
+2- SEO dostu sayfa yapısı
+3- Responsive (mobil uyumlu) tasarım
+4- Modern, kurumsal arayüz
+5- Kolay içerik yönetimi
 
 Geliştirici
 
