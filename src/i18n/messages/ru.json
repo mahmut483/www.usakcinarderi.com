@@ -1,0 +1,13 @@
+{
+  "navigation": {
+    "home": "Главная",
+    "about": "О нас",
+    "products": "Продукты",
+    "contact": "Контакты"
+  },
+  "common": {
+    "readMore": "Читать далее",
+    "learnMore": "Узнать больше",
+    "contactUs": "Связаться с нами"
+  }
+} 

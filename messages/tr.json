@@ -1,0 +1,975 @@
+{
+  "HomePage": {
+    "title": "Merhaba!",
+    "about": "Hakkımızda"
+    
+  },
+
+  "Header":{
+    "deri": "Deri",
+    "homePage": "Anasayfa",
+    "ourServices": "Değerlerimiz",
+    "purse": "Cüzdan",
+    "coat": "Mont",
+    "ourProject": "Fabrikamız",
+    "blog": "Blog",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "ourMission": "Misyonumuz",
+    "ve": "Ve",
+    "ourVission": "Vizyonumuz",
+    "tumHizmetler": "Tüm Hizmetler"
+  },
+
+ "Headline": {
+      "title": "Uşak'ın Mirası, Derinin Sanatı",
+      "subTitle": "Tasarımın Başladığı Kalite",
+      "rightText": "Uşak'ın köklü deri geleneğini, modern zanaatkarlıkla birleştiriyoruz. Usta ellerde işlenen her bir kuzu derisi, tasarımcıların vizyonunu hayata geçirecek eşsiz bir tuvale dönüşüyor. Kalite ve mirası, sizin yaratıcılığınız için sunuyoruz."
+    },
+
+  "Introduction":{
+    "title": "ÇINAR DERİ - BİZ KİMİZ?",
+    "title2": "Deriye Hayat Veren",
+    "title3": "Ustalıkla Şekillenen",
+    "title4": "Zarafet",
+    "text": "Çınar Deri olarak, gelenekten ilham alan modern tasarımlarımızla her parçada kaliteyi ve el işçiliğini yansıtıyoruz. Deriyi sadece işlemekle kalmıyor, ona karakter, zarafet ve zaman ötesi bir duruş katıyoruz. Her ürünümüz, ustalığın ve sadeliğin özgün bir birleşimidir.",
+    "button1": "Fabrikamızı İnceleyin",
+    "button2": "İletişime geçin"
+  },
+
+  "whyCinarSection":{
+    "headline":"Neden Çınar Deri'yi tercih etmeliyim?",
+    "subHeadline":"Üç temel ilkeye bağlıyız: Yüksek performans, güvenilirlik ve yenilikçilik.",
+    "title1": "Güvenilirlik",
+    "title2": "Yüksek Performans",
+    "title3": "Yenilikçilik",
+    "title4": "7/24 Destek",
+    "decription1": "Çınar Deri olarak her aşamada kalite standartlarına sadık kalır, projelerinizi güvenle hayata geçiririz.",
+    "decription2": "Üretim ve hizmet süreçlerimizde maksimum verimlilikle çalışır, taleplerinize hızlı çözümler sunarız.",
+    "decription3": "Deri sektöründeki son trendleri ve teknolojileri yakından takip eder, modern çözümler geliştiririz.",
+    "decription4": "Müşteri memnuniyetini önceliğimiz kabul eder, her zaman ulaşılabilir profesyonel destek sağlarız."
+
+  },
+
+  "GalleryItem":{
+    "uretim": "Üretimden Kareler",
+    "aciklama":"Modern makinelerimiz ve deneyimli ekibimizle Çınar Deri'nin üretim sürecinden görüntüler."
+  },
+
+  "Footer":{
+    "deri": "Deri",
+    "slogan": "Her Dokunuşta Sanat, Her Tabakada Kalite.",
+    "destek": "Destek",
+    "sss": "SSS",
+    "iletisim": "İletişim",
+    "hakkimizda": "Hakkımzıda",
+    "misyonumuz": "Misyonumuz",
+    "vizyonumuz": "Vizyonumuz",
+    "projelerimiz": "Fabrikamız",
+    "blog": "Blog",
+    "hizmetlerimiz":"Değerlerimiz",
+    "topluluk": "Topluluk",
+    "kurulus": "Kuruluş ve Geçmiş",
+    "uretim": "Üretim Kalitesi",
+    "urun": "Ürün Çeşitliliği",
+    "surudurulebilir": "Sürdürülebilirlik ve Sorumluluk",
+    "altMetin": "Çınar Deri. Tüm hakları saklıdır © 2025.",
+    "cüzdan": "İthalat ve İhracat",
+    "kemer": "Hammade ve Deri Kaynaklarımız",
+    "canta": "Üretim Sürecimiz",
+    "bakim": "Kalite ve Sertifikalar",
+    "gravur": "Yasal Uyumluluk ve Etik",
+    "kurumsal": "Uluslar Arası Toptan Ticaret"
+  },
+
+  "Contact":{
+    "title": "İletişim Kanallarımız",
+    "description": "Projeniz hakkında konuşmak, soru sormak veya ücretsiz keşif randevusu almak için buradayız.",
+    "addressTitle": "Adresimiz",
+    "address": "Karma OSB, 7. Cd. No:28 Merkez/Uşak",
+    "openInMapsText": "Google Haritalarda Aç",
+    "phoneTitle": "Telefon",
+    "phone": "+90 (505) 001 95 28",
+    "phoneHintText": "Hızlı sorularınız için arayın.",
+    "emailTitle": "E-posta",
+    "email": "info@usakcinarderi.com",
+    "emailHintText": "Detaylı bilgi ve teklif talepleri.",
+    "hoursTitle": "Çalışma Saatleri",
+    "workingHours": "Pazartesi - Cumartesi: 09:00 - 19:00 Pazar günleri kapalıyız.",
+    "mapTitle": "Konum Haritası"
+  },
+
+  "About":{
+    "heading": "Hakkımızda",
+    "subheading": "Çınar Deri ailesinin hikâyesini ve ustalığını keşfedin.",
+    "aboutImageAlt": "Çınar Deri Atölye Görseli",
+    "aboutSubtitle": "Geçmişten Bugüne",
+    "aboutTitle": "Çınar Deri Hakkında",
+    "aboutText": "Çınar Deri, yılların birikimi ve modern tasarım anlayışıyla, en kaliteli kuzu derilerini ustalıkla işleyen bir aile işletmesidir. Her bir ürünümüzde işçilik detayına verdiğimiz özen, müşteri memnuniyetini en üst seviyede tutmamıza yardımcı olur. Başladığımız günden bugüne yenilikçi çözümler ve sürdürülebilir süreçlerle sektörde güvenilir bir marka olarak tanındık.",
+    "missionTitle": "Misyonumuz",
+    "missionText": "Çınar Deri olarak müşterilerimizin yaşam kalitesini artıracak, estetik ve fonksiyonel açıdan üstün, kaliteli ve sürdürülebilir deri ürünler sunmayı misyon edindik.",
+    "visionTitle": "Vizyonumuz",
+    "visionText": "Çınar Deri’yi dünya çapında tanınan, yenilikçi tasarım ve kalite anlayışıyla öncü bir deri markası haline getirmek.",
+    "valuesTitle": "Değerlerimiz",
+    "valuesText": "Dürüstlük, ustalık, yenilik ve sürdürülebilirlik ilkeleriyle, her adımımızda güven ve kalite önceliğimizdir.",
+    "coreValuesHeading": "İşimizin Temeli: Değerlerimiz",
+    "coreValuesSubheading": "Attığımız her adımda, aldığımız her kararda bize yol gösteren temel ilkeler.",
+    "card1Title": "Koşulsuz Müşteri Memnuniyeti",
+    "card1Text": "Her projemizin merkezinde müşterilerimiz yer alır. İhtiyaçlarınıza odaklanır, beklentilerinizi aşan çözümler sunarız.",
+    "card2Title": "Üstün Kalite ve İşçilik",
+    "card2Text": "Malzeme seçiminin son detayına kadar kaliteden ödün vermez, uzun ömürlü ve estetik işler sunarız.",
+    "card3Title": "Tam Güven ve Şeffaflık",
+    "card3Text": "Süreçlerimizde şeffaf iletişim ve dürüst yaklaşımla müşterilerimizle güvene dayalı ilişkiler kurarız.",
+    "card4Title": "Yenilikçi ve Modern Yaklaşım",
+    "card4Text": "Sektör trendlerine ve yeni malzemelere hakim olarak fonksiyonel ve çağdaş mekanlar yaratırız.",
+    "card5Title": "Profesyonellik ve Uzmanlık",
+    "card5Text": "Deneyimli ekibimiz, proje yönetiminden uygulamaya kadar yüksek standartlarda hizmet verir.",
+    "card6Title": "Zamanında ve Sorunsuz Teslimat",
+    "card6Text": "Planlanan takvime sadık kalarak projelerinizi eksiksiz ve sorunsuz şekilde teslim ederiz.",
+    "card7Title": "Çözüm Odaklılık",
+    "card7Text": "Karşılaştığımız her zorluğa proaktif ve yaratıcı çözümlerle yaklaşırız.",
+    "card8Title": "Sürdürülebilirlik Bilinci",
+    "card8Text": "Çevreye duyarlı malzeme seçimleri ve enerji verimli çözümlerle geleceğe değer katarız."
+  },
+
+  "Blog": {
+      "blog": "Blog",
+      "mainTitle": "Deri Üretiminin Kalbinden: Sektörel Haberler, Teknik Bilgiler ve Trendler.",
+      "devaminiOku": "Devamını Oku",
+      "close": "Kapat",
+      "posts": [
+        {
+          "title": "Doğru Deri Nasıl Seçilir?",
+          "excerpt": "Projeniz için ideal deri kalınlığı, bitişi ve esnekliği hakkında bilmeniz gerekenler.",
+          "content": "Çanta, ayakkabı veya giyim projelerinizde hangi derinin en iyi sonucu vereceğini belirlemek için deri türlerini, tabaklama yöntemlerini ve bitiş tekniklerini inceliyoruz."
+        },
+        {
+          "title": "2025 Sonbahar/Kış Deri Renk Paleti",
+          "excerpt": "Gelecek sezonun koleksiyonlarına yön verecek renk ve doku trendlerini keşfedin.",
+          "content": "Toprak tonlarından canlı pastellere, yeni sezon için hazırladığımız renk koleksiyonumuzla tasarımlarınıza ilham veriyoruz. Öne çıkan renkler ve dokular burada."
+        },
+        {
+          "title": "Tabaklama Sanatı: Derinin Yolculuğu",
+          "excerpt": "Ham derinin, fabrikamızda nasıl birinci sınıf bir malzemeye dönüştüğünü adım adım görün.",
+          "content": "Uşak'ın en kaliteli kuzu derilerinin seçiminden, boyama ve bitirme işlemlerine kadar tüm tabaklama sürecini ve zanaatkarlığımızın sırlarını paylaşıyoruz."
+        },
+        {
+          "title": "Sürdürülebilir Üretim ve Çevre Politikamız",
+          "excerpt": "Doğaya saygılı üretim yöntemlerimiz ve çevre dostu tabaklama tekniklerimiz.",
+          "content": "Su kullanımını azaltan teknolojiler, bitkisel bazlı boyalar ve atık yönetimi politikamız ile hem kaliteli hem de çevreye duyarlı üretim yapıyoruz."
+        },
+        {
+          "title": "Tasarımcı Gözüyle: Derilerimizle Yaratılan Harikalar",
+          "excerpt": "İş ortaklarımızın derilerimizi kullanarak yarattığı ilham verici projeler ve başarı hikayeleri.",
+          "content": "Önde gelen moda markalarının ve butik tasarımcıların, Çınar Deri ürünleriyle nasıl fark yarattığını ve koleksiyonlarına değer kattığını inceliyoruz."
+        },
+        {
+          "title": "Teknik Detay: Nappa ve Süet Arasındaki Farklar",
+          "excerpt": "İki popüler deri türünün özelliklerini, kullanım alanlarını ve avantajlarını karşılaştırıyoruz.",
+          "content": "Tasarımınız için pürüzsüz bir yüzey mi yoksa kadifemsi bir doku mu arıyorsunuz? Nappa ve süetin teknik özelliklerini ve hangi projeler için uygun olduğunu açıklıyoruz."
+        },
+        {
+          "title": "Yeni Sezon Deri Koleksiyonumuz Yayında!",
+          "excerpt": "En yeni renkler, dokular ve bitiş teknikleriyle hazırlanan koleksiyonumuzu keşfedin.",
+          "content": "Ar-Ge ekibimizin uzun çalışmaları sonucu ortaya çıkan yeni sezon koleksiyonumuz, inovatif dokuları ve trend renkleri bir araya getiriyor. Katalogumuzu inceleyin."
+        },
+        {
+          "title": "Doğal Derinin Avantajları",
+          "excerpt": "Sentetik yerine doğal deri tercih etmenin projenize katacağı değerler.",
+          "content": "Nefes alabilir dokusu, dayanıklılığı ve zamanla kazandığı eşsiz karakter ile doğal derinin sentetik alternatiflere karşı üstünlüklerini inceliyoruz."
+        },
+        {
+          "title": "Deri Finisaj Teknikleri ve Terminolojisi",
+          "excerpt": "Anilin, semi-anilin, pigmentli... Deri bitirme teknikleri arasındaki farklar nelerdir?",
+          "content": "Deri yüzeyinin görünümünü, dayanıklılığını ve dokusunu belirleyen finisaj tekniklerini ve bu terimlerin ne anlama geldiğini detaylıca ele alıyoruz."
+        },
+        {
+          "title": "Üretimde Kalite Kontrol Süreçlerimiz",
+          "excerpt": "Her bir deri tabakasının mükemmelliğini nasıl garanti altına alıyoruz?",
+          "content": "Ham madde girişinden son ürün çıkışına kadar olan her aşamada uyguladığımız renk, kalınlık, dayanıklılık ve doku testleri hakkında bilgi veriyoruz."
+        },
+        {
+          "title": "Deri Sanayisinde Teknolojinin Rolü",
+          "excerpt": "Geleneksel zanaatkarlığı modern teknolojiyle nasıl birleştiriyoruz?",
+          "content": "Otomasyon sistemleri, hassas renk ölçüm cihazları ve verimliliği artıran yeni nesil makinalarla üretim kalitemizi nasıl sürekli olarak iyileştirdiğimizi anlatıyoruz."
+        },
+        {
+          "title": "Sipariş Süreci ve Numune Talebi",
+          "excerpt": "İhtiyacınıza özel deri siparişi vermek ve numune talep etmek ne kadar kolay?",
+          "content": "Markanıza özel renk ve doku çalışmalarından, toplu sipariş verme adımlarına kadar tüm süreci şeffaf bir şekilde açıklıyoruz. İlk adımı bugün atın."
+        },
+        {
+          "title": "Uşak'ın Dericilik Tarihindeki Yeri",
+          "excerpt": "Bölgemizin asırlık deri işleme mirası ve Çınar Deri'nin bu gelenekteki rolü.",
+          "content": "Geçmişten günümüze Uşak'ın deri sanayisindeki önemini ve bu köklü mirası nasıl geleceğe taşıdığımızı anlatan bir yolculuğa çıkın."
+        },
+        {
+          "title": "Deri Bakımı: Üretici ve Tasarımcılar İçin İpuçları",
+          "excerpt": "Müşterilerinize ürünlerinin bakımı hakkında doğru bilgiyi nasıl aktarabilirsiniz?",
+          "content": "Farklı deri türlerinin bakımı için temel prensipleri ve son kullanıcıya sunulabilecek pratik bakım tavsiyelerini derledik."
+        },
+        {
+          "title": "Fabrika Ziyareti: Üretim Sürecine Tanıklık Edin",
+          "excerpt": "Tabakhanemizi ziyaret ederek derinin yolculuğunu yerinde deneyimleyin.",
+          "content": "Fabrikamızı ziyaret ederek ham derinin seçiminden finisaj aşamasına kadar tüm üretim adımlarını canlı izleyebilir ve ustalarımızla sohbet edebilirsiniz."
+        },
+        {
+          "title": "Ar-Ge Çalışmalarımız: Geleceğin Derisini Şekillendiriyoruz",
+          "excerpt": "İnovasyon departmanımızın üzerinde çalıştığı yeni dokular ve ekolojik çözümler.",
+          "content": "Daha dayanıklı, daha hafif ve daha çevre dostu deri alternatifleri üzerine yaptığımız araştırmaları ve sektörün geleceğine dair vizyonumuzu paylaşıyoruz."
+        },
+        {
+          "title": "Tasarımcılar İçin İlham Kaynakları",
+          "excerpt": "Yeni koleksiyonlar için yaratıcı düşüncenin arkasındaki hikaye.",
+          "content": "Doğadan esinlenen formlar, mimari detaylar ve sanat akımları, deri tasarımlarımız için nasıl birer ilham kaynağına dönüşüyor, anlatıyoruz."
+        },
+        {
+          "title": "Logolu ve Desenli Deri Üretimi",
+          "excerpt": "Markanıza özel lazer baskı, gofre ve serigrafi seçeneklerimiz.",
+          "content": "Deri yüzeyine marka kimliğinizi yansıtacak özel desen ve logo uygulama tekniklerimizle, koleksiyonlarınıza benzersiz bir imza katın."
+        },
+        {
+          "title": "Deri Sektöründe Global Trendler",
+          "excerpt": "Uluslararası podyumlardan ve tasarım fuarlarından öne çıkan deri kullanım şekilleri.",
+          "content": "Moda, mobilya ve otomotiv sektörlerindeki en son deri trendlerini analiz ediyor, gelecekteki projeleriniz için ilham verici fikirler sunuyoruz."
+        },
+        {
+          "title": "Çınar Deri’den Haberler",
+          "excerpt": "Fabrikamızdaki son gelişmeler, yeni yatırımlarımız ve sektörel başarılarımız.",
+          "content": "Kapasite artışlarımız, aldığımız kalite belgeleri ve sosyal sorumluluk projelerimiz hakkında en güncel bilgileri burada paylaşıyoruz."
+        }
+      ]
+    },
+
+  "Project": {
+    "projects": {
+      "featured": {
+        "title": "Fabrikamız",
+        "description": "Tesislerimizdeki ileri teknoloji ekipman ve uzman ekibimizin üretim sürecinden kareler."
+      },
+      "list": {
+        "cuzdan": {
+          "title": "İthalat & İhracat",
+          "description": "Uşak’tan temin ettiğimiz derileri işleyip global pazarlara ihraç ediyoruz."
+        },
+        "kemer": {
+          "title": "Hammadde & Deri Kaynaklarımız",
+          "description": "Özenle seçilen kuzu derileri kalite ve dayanıklılığı garanti ediyor."
+        },
+        "canta": {
+          "title": "Üretim Sürecimiz",
+          "description": "Kesimden paketlemeye kadar tüm aşamaları şeffaf ve titiz bir şekilde yürütüyoruz."
+        },
+        "bakim": {
+          "title": "Kalite & Sertifikalar",
+          "description": "ISO, CE ve TÜRKAK sertifikalarımızla ürünlerimizin güvenilirliğini belgeliyoruz."
+        },
+        "gravur": {
+          "title": "Yasal Uyumluluk & Etik",
+          "description": "Tüm faaliyetlerimizi mevzuata uygun ve etik ilkeler doğrultusunda yürütüyoruz."
+        },
+        "kurumsal": {
+          "title": "Uluslararası Toptan Ticaret",
+          "description": "Global toptan ticaret ağımızla ürünlerinizi işletme partnerlerimize güvenle sunuyoruz."
+        }
+      },
+      "all": {
+        "title": "Fabrika Turu",
+        "description": "Tesislerimizi adım adım keşfedin."
+      },
+      "buttons": {
+        "discover": "Tur Başlat",
+        "more": "Detaylar"
+      }
+    },
+    "approach": {
+      "title": "Üretim Yaklaşımımız",
+      "description": "Fabrikamızda verimlilik, kalite ve sürdürülebilirlik ilkeleriyle üretim süreçlerimizi yürütüyoruz.",
+      "steps": {
+        "discovery": {
+          "title": "Planlama & Hazırlık",
+          "description": "Sipariş gereksinimlerini analiz edip, üretim hattı ve malzeme planlaması yapıyoruz."
+        },
+        "communication": {
+          "title": "Şeffaf İletişim",
+          "description": "Üretim süresince düzenli güncellemelerle süreçleri ve teslimat takvimini paylaşıyoruz."
+        },
+        "quality": {
+          "title": "Kalite & Denetim",
+          "description": "Her aşamada sıkı kalite kontrolleri ve testlerle ürün standartlarını garanti altına alıyoruz."
+        }
+      }
+    }
+  },
+
+  "Services": {
+    "hizmetlerimiz": "Değerlerimiz",
+    
+    "mainTitle": "Çınar Deri’nin köklü mirasına ve geleceğe taşıdığımız sorumluluğa hoş geldiniz. Her adımda mükemmellik ve güven sizinle buluşuyor.",
+    "title1": "İthalat & İhracat",
+    "text1": "Uşak’tan temin ettiğimiz derileri işleyerek global pazarlara ihraç ediyoruz.",
+    "title2": "Hammadde & Deri Kaynaklarımız",
+    "text2": "Özenle seçilen kuzu derileri, kalite ve dayanıklılığı garanti ediyor.",
+    "title3": "Üretim Süreci",
+    "text3": "Şeffaf süreç ve uzman ekiplerle, deri kesiminden montaja kadar kusursuz deneyim sunuyoruz.",
+    "title4": "Kalite ve Sertifikalar",
+    "text4": "ISO sertifikalar ve test laboratuvarımızla ürünlerimizin güvenilirliğini belgeliyoruz.",
+    "title5": "Yasal Uyumluluk ve Etik",
+    "text5": "Çevre ve işçi haklarına saygılı üretimle etik ve yasal standartlara bağlıyız.",
+    "title6": "Uluslararası Toptan Ticaret",
+    "text6": "Uşak’ta ürettiğimiz derileri, global lojistik ağımızla toptan olarak dünya pazarlarına hızlı ve güvenilir şekilde sunuyoruz.",
+    "button": "Bizimle İletişime Geçin",
+    "gozAt": "Göz At",
+
+    "OrijinalMainTitle": "Çınar Deri olarak sunduğumuz uzmanlık alanlarımızla yanınızdayız.",
+    "OrijinalTitle1": "El Yapımı Cüzdan",
+    "OrijinalText1": "Ustalarımızın el emeğiyle, kaliteli kuzu derisinden üretilen zarif ve dayanıklı cüzdan modelleri.",
+    "OrijinalTitle2": "Kemer & Aksesuar",
+    "OrijinalText2": "Özel ebat, renk ve toka seçenekleriyle kişiye özel kemer ve deri aksesuar tasarımları.",
+    "OrijinalTitle3": "Çanta & Evraklık",
+    "OrijinalText3": "Ofis hayatınızı şıklıkla destekleyecek, fonksiyonel ve estetik deri çanta ile evraklık çözümleri.",
+    "OrijinalTitle4": "Deri Onarım & Bakım",
+    "OrijinalText4": "Kullandıkça oluşan aşınma ve yıpranmaları profesyonel yöntemlerle onarıyor, derinize ömrü uzatıyoruz.",
+    "OrijinalTitle5": "Kişiye Özel Gravür",
+    "OrijinalText5": "İsim, logo veya özel desenlerin gravürle deri yüzeyine işlenmesiyle tam size özel ürünler.",
+    "OrijinalTitle6": "Kurumsal Üretim",
+    "OrijinalText6": "Firma ve organizasyonlar için toplu deri ürün üretimi ve prestijli kurumsal hediye çözümleri."
+  },
+
+  "MissionVision": {
+    "misyonVizyon": "Misyonumuz & Vizyonumuz",
+    "mainTitle": "Çınar Deri olarak nereden geldiğimizi ve nereye gitmek istediğimizi bir arada keşfedin."
+    
+  },
+
+  "SliderHeadline": {
+    "title1": "Milimetrik Hassasiyet, Üstün Kalite",
+    "text1": "Uşak'ın en değerli kuzu derilerini, Çınar Deri'nin usta elleriyle işliyoruz. Tasarımlarınıza hayat verecek o mükemmel dokunuşu bizimle yakalayın.",
+    "title2": "Doğanın Sanatla Buluşması",
+    "text2": "Her bir tabaka deriyi, benzersiz doku ve renklerle bir sanat eserine dönüştürüyoruz. Koleksiyonlarınız için ilham kaynağınız olmaya hazırız.",
+    "title3": "Sınırsız Renk ve Doku",
+    "text3": "Hayalinizdeki tasarımlar için zengin renk paletimiz ve özel işleme tekniklerimizle, projenize özel deri çözümleri sunuyoruz.",
+    "title4": "Sürdürülebilir Zanaatkarlık",
+    "text4": "Doğaya saygılı üretim anlayışımızla, en kaliteli deriyi çevre dostu proseslerle işliyor, geleceğe sorumlu bir miras bırakıyoruz."
+  },
+
+  "StoryTelling": {
+    "title1": "Genç ve Tutkulu Başlangıç",
+    "text1": "Çınar Deri, genç ve dinamik bir ekiple deri ürünlerinde kalite ve özeni buluşturuyor. Her parça, tutkuyla tasarlanıyor ve üretiliyor.",
+    "title2": "El İşçiliği ve Detaylara Özen",
+    "text2": "Ürünlerimizde geleneksel el işçiliği ile modern tasarımı buluşturuyoruz. Her dikiş, her detay kalite ve dayanıklılık için atılıyor.",
+    "title3": "Şık ve Fonksiyonel Tasarımlar",
+    "text3": "Şıklık ve fonksiyonellik bir arada; günlük hayatın her anında yanınızda olacak aksesuarlar yaratıyoruz.",
+    "title4": "Müşteri Memnuniyeti ve Sürdürülebilirlik",
+    "text4": "Müşterilerimizin memnuniyeti ve sürdürülebilir üretim önceliğimiz. Doğaya saygılı malzemelerle uzun ömürlü ürünler sunuyoruz."
+  },
+
+  "HandmadeWallet": {
+   "hero": {
+    "tag": "İTHALAT & İHRACAT",
+    "title": "Çınar Deri Global Ticaret Merkezi",
+    "description": "Uşak’taki lojistik üslerimizden yola çıkan ithalat ve ihracat operasyonlarımızla deri ürünlerimizi dünya pazarlarına kesintisiz ulaştırıyoruz."
+  },
+  "cta": {
+    "title": "Ticaret Ağımızı Keşfedin",
+    "description": "İthalat ve ihracat süreçlerimiz, depolama ve sevkiyat altyapımız hakkında bilgi alın.",
+    "contactButton": "İletişime Geçin",
+    "projectsButton": "Lojistik Ağımız"
+  },
+  "production": {
+    "title": "Ticaret Süreç Adımları",
+    "steps": {
+      "1": {
+        "title": "Girdi Kabul & Kalite Kontrol",
+        "description": "İthal edilen ham derilerde kalite kriterlerini sağladığımızdan emin oluyoruz.",
+        "label": "1. AŞAMA"
+      },
+      "2": {
+        "title": "Depolama & Sevkiyata Hazırlık",
+        "description": "Ürünleri iklim kontrollü depolarımızda muhafaza edip sevkiyata hazır hale getiriyoruz."
+      },
+      "3": {
+        "title": "Gümrük & Belge İşlemleri",
+        "description": "Ulusal ve uluslararası mevzuat gereği gümrük beyanı ve gerekli belgeleri titizlikle tamamlıyoruz."
+      },
+      "4": {
+        "title": "Uluslararası Sevkiyat",
+        "description": "Karayolu, denizyolu ve havayolu partnerlerimizle güvenli ve zamanında teslimat sağlıyoruz."
+      },
+      "5": {
+        "title": "Teslimat & Takip",
+        "description": "Malları varış noktasına ulaştırıp, müşteriye kadar şeffaf takip ile teslim ediyoruz.",
+        "label": "TAMAMLANDI"
+      }
+    }
+  },
+  "processing": {
+    "title": "Lojistik & Operasyon Özellikleri",
+    "features": {
+      "1": {
+        "title": "Çok Modlu Taşımacılık",
+        "description": "Karayolu, denizyolu ve havayolu seçenekleriyle esnek lojistik çözümleri sunuyoruz."
+      },
+      "2": {
+        "title": "Hızlı Gümrükleme",
+        "description": "Uzman ekibimizle minimum beklemeyle gümrük süreçlerini tamamlıyoruz."
+      },
+      "3": {
+        "title": "Gerçek Zamanlı Takip",
+        "description": "Dijital platformumuz üzerinden yükünüzün her adımını izleyebilirsiniz."
+      },
+      "4": {
+        "title": "Güvenli Depolama",
+        "description": "İklim kontrollü ve sigortalı depolarımızda ürünleriniz koruma altında."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Ticaret Başarı Hikayeleri",
+    "stories": {
+      "1": {
+        "title": "Yeni Pazara Açılış",
+        "description": "Asya pazarına yapılan ilk sevkiyatımız, yüksek memnuniyet ve hızlı gümrükleme ile tamamlandı."
+      },
+      "2": {
+        "title": "Dijital Takip Entegrasyonu",
+        "description": "Müşterilerimiz için geliştirdiğimiz takip portalı, sevkiyat görünürlüğünü %100’e çıkardı."
+      },
+      "3": {
+        "title": "Esnek Taşıma Modeli",
+        "description": "Acil siparişler için havayolu, büyük hacimler için denizyolu kombinasyonu kullanarak maliyet ve süreyi optimize ettik."
+      }
+    }
+  },
+  "features": {
+    "title": "Neden Çınar Deri İthalat & İhracat?",
+    "items": {
+      "1": {
+        "title": "Global Lojistik Ağı",
+        "description": "Dünya çapında güvenilir partnerlerle geniş taşımacılık ağı."
+      },
+      "2": {
+        "title": "Uzman Gümrük Hizmetleri",
+        "description": "Deneyimli ekibimizle tüm ticari belgeler eksiksiz hazırlanır."
+      },
+      "3": {
+        "title": "Esnek Depolama Çözümleri",
+        "description": "Kısa ve uzun süreli, iklim kontrollü depolama seçenekleri."
+      },
+      "4": {
+        "title": "Şeffaf Takip ve Raporlama",
+        "description": "Her sevkiyat için anlık güncellemeler ve detaylı performans raporları sunuyoruz."
+      }
+    }
+  }
+  },
+
+  "BagPortfolio": {
+    "hero": {
+      "tag": "ÜRETİM SÜRECİMİZ",
+      "title": "Deri Üretiminde Adım Adım Mükemmellik",
+      "description": "Çınar Deri’nin fabrikasında, en kaliteli hammaddeden son montaja kadar her aşamada titizlik ve şeffaflık ön plandadır."
+    },
+    "cta": {
+      "title": "Üretim Sürecimizi Yerinde Görmek İster misiniz?",
+      "description": "Kesimden cilalamaya kadar tüm adımları uzman ekibimiz eşliğinde inceleyin veya sanal tur ile keşfedin.",
+      "contactButton": "İletişime Geçin",
+      "projectsButton": "Süreç Galerisi"
+    },
+    "production": {
+      "title": "Adım Adım Üretim Akışı",
+      "steps": {
+        "1": {
+          "title": "Hammadde Seçimi",
+          "description": "Sertifikalı kuzu derileri kalite, kalınlık ve esneklik kriterlerine göre elenir.",
+          "label": "1. AŞAMA"
+        },
+        "2": {
+          "title": "Kesim ve Ön İşlem",
+          "description": "Patentli kesim makineleri ile millimetrik doğrulukla parça kesimi ve yüzey hazırlığı."
+        },
+        "3": {
+          "title": "Tabaklama & Renklendirme",
+          "description": "Bitkisel tabaklama ve usta el boyama teknikleriyle deriye dayanıklı ve canlı renkler kazandırılır."
+        },
+        "4": {
+          "title": "Dikiş & Montaj",
+          "description": "Çift dikiş yöntemi ve hassas montajla, kullanım ömrü uzatılan parçalar bir araya getirilir."
+        },
+        "5": {
+          "title": "Kenar İşleme & Cilalama",
+          "description": "Kenarlarda pürüzsüzlük ve koruma için özel cila ve kenar boyası uygulamaları yapılır.",
+          "label": "5. AŞAMA"
+        },
+        "6": {
+          "title": "Kalite Kontrol",
+          "description": "Renk, tutarlılık ve dayanıklılık testleri ile her parça sıkı denetimden geçirilir."
+        },
+        "7": {
+          "title": "Paketleme & Sevkiyat",
+          "description": "Özenli ambalaj ve hızlı lojistik ile ürünleriniz size güvenle ulaştırılır.",
+          "label": "7. AŞAMA"
+        }
+      }
+    },
+    "processing": {
+      "title": "Üretimde Kullandığımız Teknolojiler",
+      "features": {
+        "1": {
+          "title": "Otomatik Kesim Sistemleri",
+          "description": "Yüksek hassasiyetli CNC makineleriyle israfı azaltıyoruz."
+        },
+        "2": {
+          "title": "Çevreci Tabaklama",
+          "description": "Su tasarruflu ve biyolojik olarak parçalanabilen tabaklama çözümleri kullanıyoruz."
+        },
+        "3": {
+          "title": "Robotik Montaj Destek",
+          "description": "Kritik montaj adımlarında robotik kollarla tutarlı kalite sağlıyoruz."
+        },
+        "4": {
+          "title": "Akıllı Takip & İzlenebilirlik",
+          "description": "Her parti için dijital barkod sistemiyle süreç şeffaflığı sunuyoruz."
+        }
+      }
+    },
+    "storytelling": {
+      "title": "Üretimden İlham Veren Hikâyeler",
+      "stories": {
+        "1": {
+          "title": "Yüzde 99 Uyum",
+          "description": "Otomatik kesim entegrasyonuyla hata oranımız %5’ten %1’e düştü."
+        },
+        "2": {
+          "title": "Yeşil Tabaklama Başarısı",
+          "description": "Yeni tabaklama hattımızla su tüketimini %40 azalttık."
+        },
+        "3": {
+          "title": "Siparişi Hızla İşleme",
+          "description": "Esnek ve optimize üretim adımlarıyla siparişlerinizi zamanında ve eksiksiz teslim ediyoruz."
+        }
+      }
+    },
+    "features": {
+      "title": "Üretim Sürecimizin Fark Yaratan Özellikleri",
+      "items": {
+        "1": {
+          "title": "Tam Süreç Şeffaflığı",
+          "description": "Her adımda gerçek zamanlı raporlama ve takip imkanı."
+        },
+        "2": {
+          "title": "Yüksek Kapasite & Esneklik",
+          "description": "Küçük ölçekli özel üretimden büyük hacimli siparişlere hızlı adaptasyon."
+        },
+        "3": {
+          "title": "Sürdürülebilir Yaklaşım",
+          "description": "Enerji verimli ekipmanlar ve çevreci kimyasallar kullanımı."
+        },
+        "4": {
+          "title": "Uzman Kadro",
+          "description": "Alanında deneyimli mühendis ve zanaatkârlardan oluşan ekip."
+        }
+      }
+    }
+  },
+  
+  "BeltAccessory": {
+   "hero": {
+    "tag": "HAMMADDE & DERİ KAYNAKLARIMIZ",
+    "title": "En Katı Kalite Standartlarında Seçilen Kuzu Derilerimiz",
+    "description": "Çınar Deri olarak hammaddeden son ürüne kadar güvence altına alınmış, sertifikalı tedarikçilerden özenle seçilen kuzu derilerini kullanıyoruz."
+  },
+  "cta": {
+    "title": "Kaynak Sürecimizi Keşfedin",
+    "description": "Tedarikçi seçiminden gelen kalite belgelerine kadar her adımı öğrenmek için bize ulaşın.",
+    "contactButton": "İletişime Geçin",
+    "projectsButton": "Tedarikçi Ağımız"
+  },
+  "production": {
+    "title": "Tedarik ve Ön İşlem Sürecimiz",
+    "steps": {
+      "1": {
+        "title": "Tedarikçi Değerlendirme",
+        "description": "Uluslararası standartlara uygun sertifikalı çiftlik ve mezbahaları özenle seçiyoruz.",
+        "label": "1. ADIM"
+      },
+      "2": {
+        "title": "Ham Deri Seçimi",
+        "description": "Kesim kusuru, kalınlık ve esneklik kriterlerine göre deriler detaylı fiziksel incelemeye tabi tutulur."
+      },
+      "3": {
+        "title": "Temizleme & Konservasyon",
+        "description": "Doğal tuz ve hafif kimyasallarla yapılan ön temizlemeyle deri yüzeyi işlenmeye hazır hale getirilir."
+      },
+      "4": {
+        "title": "Bitkisel Tabaklama Hazırlığı",
+        "description": "Bitkisel özlerle hazırlanan tabaklama sıvılarına uygun yoğunluk ve pH değerleri elde edilir."
+      },
+      "5": {
+        "title": "Depolama & Sevkiyat",
+        "description": "İklim kontrollü depolarımızda bekletilen deriler, siparişe özel sevkiyat için paketlenir.",
+        "label": "5. ADIM"
+      }
+    }
+  },
+  "processing": {
+    "title": "Hammadde Kalite Kontrollerimiz",
+    "features": {
+      "1": {
+        "title": "Sertifikalı Kaynak",
+        "description": "Her parti için veteriner sağlık raporları ve çevre uyumluluk belgeleri sunulur."
+      },
+      "2": {
+        "title": "Fiziksel-Test Protokolleri",
+        "description": "Esneklik, dayanıklılık ve nem direnci testleriyle her deri partisinin performansı ölçülür."
+      },
+      "3": {
+        "title": "Renk & Ton Uyum Kontrolü",
+        "description": "Tabaklama öncesi ve sonrası ton tutarlılığı spektrofotometre ile doğrulanır."
+      },
+      "4": {
+        "title": "Sürdürülebilir Kaynak Yönetimi",
+        "description": "Çevre dostu tabaklama kimyasalları ve atık su arıtma sistemleriyle ekolojik denge korunur."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Tedarik Hikayelerimiz",
+    "stories": {
+      "1": {
+        "title": "Yerel Çiftlik İşbirliği",
+        "description": "Bölgedeki aile çiftliklerinden doğrudan temin ettiğimiz derilerle kaliteyi yerelden globale taşıyoruz."
+      },
+      "2": {
+        "title": "Uluslararası Standartlar",
+        "description": "Avrupa ve Kuzey Amerika’dan sertifikalı tedarikçilerimizden aldığımız derilerle çeşitliliğimizi artırıyoruz."
+      },
+      "3": {
+        "title": "Yeşil Tabaklama Projesi",
+        "description": "Bitkisel tabaklama tesisimizde su ve enerji tasarrufu sağlayan çevreci yöntemler geliştiriyoruz."
+      }
+    }
+  },
+  "features": {
+    "title": "Hammadde Seçiminde Öne Çıkan Özellikler",
+    "items": {
+      "1": {
+        "title": "Tam Şeffaflık",
+        "description": "Tedarik zincirimizin her adımında izlenebilirlik ve belge garantisi sunuyoruz."
+      },
+      "2": {
+        "title": "Üstün Fiziksel Dayanım",
+        "description": "Testlerle kanıtlanmış esneklik ve yırtılma direnci."
+      },
+      "3": {
+        "title": "Doğal Renk Tutarlılığı",
+        "description": "Bitkisel tabaklama sayesinde her parti benzersiz ve canlı tonlar sunar."
+      },
+      "4": {
+        "title": "Çevreci Yaklaşım",
+        "description": "Atık su arıtma ve geri dönüşümlü tabaklama kimyasalları kullanarak sürdürülebilirlik sağlıyoruz."
+      }
+    }
+  }
+  },
+
+  "BakimVeOnarim": {
+    "hero": {
+      "tag": "KALİTE & SERTİFİKALAR",
+      "title": "Uluslararası Kalite Standartlarımız ve Belgelerimiz",
+      "description": "Çınar Deri olarak, her ürünümüzü ISO, CE, TÜRKAK ve REACH gibi sertifikalarla donatıyor; kaliteyi her aşamada garantiliyoruz."
+    },
+    "cta": {
+      "title": "Kalite Belgelerimize Ulaşın",
+      "description": "Sertifikalarımızın tam listesi ve test raporlarımız için bizimle iletişime geçin veya dijital kopya talep edin.",
+      "contactButton": "İletişime Geçin",
+      "projectsButton": "Test Raporları"
+    },
+    "production": {
+      "title": "Kalite Yönetim Sürecimiz",
+      "steps": {
+        "1": {
+          "title": "Kalite Politikası Oluşturma",
+          "description": "Müşteri beklentilerine ve yasal gerekliliklere dayalı kalite politikamızı tanımlıyoruz.",
+          "label": "1. ADIM"
+        },
+        "2": {
+          "title": "Dokümantasyon & Planlama",
+          "description": "Tüm süreçleri yazılı prosedürlerle planlıyor, sorumlulukları netleştiriyoruz."
+        },
+        "3": {
+          "title": "Uygulama & Eğitim",
+          "description": "Personelimize düzenli eğitimler veriyor, kalite standartlarını sahada uyguluyoruz."
+        },
+        "4": {
+          "title": "İzleme & Ölçüm",
+          "description": "Üretim performansını sürekli izliyor, ölçüm sonuçlarını analiz ediyoruz."
+        },
+        "5": {
+          "title": "Düzeltici & Önleyici Faaliyet",
+          "description": "Tespit edilen uygunsuzluklara anında müdahale ederek süreçlerimizi iyileştiriyoruz.",
+          "label": "TAMAMLANDI"
+        }
+      }
+    },
+    "processing": {
+      "title": "Test & Denetim Laboratuvarımız",
+      "features": {
+        "1": {
+          "title": "Fiziksel Dayanıklılık Testleri",
+          "description": "Aşınma, yırtılma ve esneklik testleriyle deri performansını belgeliyoruz."
+        },
+        "2": {
+          "title": "Kimyasal Analizler",
+          "description": "REACH ve ağır metal limitlerine uygunluk için laboratuvar analizleri yapıyoruz."
+        },
+        "3": {
+          "title": "Renk ve Ton Tutarlılığı",
+          "description": "Spektrofotometre ölçümleriyle parti bazlı renk uyumunu doğruluyoruz."
+        },
+        "4": {
+          "title": "Çevre Uyum Denetimleri",
+          "description": "Atık su ve emisyon testleriyle üretimimizin çevresel etkisini kontrol ediyoruz."
+        }
+      }
+    },
+    "storytelling": {
+      "title": "Kalite Başarı Hikâyelerimiz",
+      "stories": {
+        "1": {
+          "title": "ISO 9001:2015 Sertifikamız",
+          "description": "Uluslararası kalite yönetim standardına uygunluğumuzu belgeleyerek, müşteri memnuniyetini artırdık."
+        },
+        "2": {
+          "title": "CE Uygunluk Onayı",
+          "description": "Avrupa pazarına uygunluk sertifikasıyla ürünlerimizin güvenliğini garantiliyoruz."
+        },
+        "3": {
+          "title": "TÜRKAK Akreditasyonu",
+          "description": "Akredite laboratuvarımızda gerçekleştirdiğimiz testlerle tam izlenebilirlik sağlıyoruz."
+        }
+      }
+    },
+    "features": {
+      "title": "Neden Çınar Deri Kalite?",
+      "items": {
+        "1": {
+          "title": "Uluslararası Standartlar",
+          "description": "ISO, CE, REACH ve TÜRKAK belgeleriyle tam uyum garantisi."
+        },
+        "2": {
+          "title": "Şeffaf Raporlama",
+          "description": "Her üretim partisi için detaylı test raporları sunuyoruz."
+        },
+        "3": {
+          "title": "Kendi Laboratuvarımız",
+          "description": "Tam donanımlı iç laboratuvarımızda 7/24 test ve denetim yapıyoruz."
+        },
+        "4": {
+          "title": "Sürekli İyileştirme",
+          "description": "Düzeltici faaliyet ve müşteri geri bildirimleriyle kaliteyi sürekli yükseltiyoruz."
+        }
+      }
+    }
+  },
+
+  "Gravur": {
+   "hero": {
+    "tag": "YASAL UYUMLULUK & ETİK",
+    "title": "Üretimde Tam Şeffaflık ve Hukuki Güvence",
+    "description": "Çınar Deri olarak tüm faaliyetlerimizde yürürlükteki mevzuata tam uyum ve etik değerler çerçevesinde hareket ediyoruz."
+  },
+  "cta": {
+    "title": "Uyumluluk Politikalarımızı İnceleyin",
+    "description": "Yasal dokümanlarımız, sertifikalarımız ve etik prensiplerimiz hakkında detaylı bilgi almak için bize ulaşın.",
+    "contactButton": "İletişime Geçin",
+    "projectsButton": "Etik Raporlarımız"
+  },
+  "production": {
+    "title": "Uyumluluk Sürecimiz",
+    "steps": {
+      "1": {
+        "title": "Yasal Gereklilik Analizi",
+        "description": "Mevzuat ve sektörel düzenlemeleri sürekli takip ediyor, ihtiyaçlara uygun uyum planı hazırlıyoruz.",
+        "label": "1. ADIM"
+      },
+      "2": {
+        "title": "Risk Değerlendirmesi",
+        "description": "Tedarik ve üretim zincirindeki potansiyel yasal & etik riskleri belirleyip önleyici tedbirler alıyoruz."
+      },
+      "3": {
+        "title": "Standartlaştırma & Dokümantasyon",
+        "description": "Tüm süreçleri yazılı prosedürlere dönüştürüyor, kayıt altına alıyoruz."
+      },
+      "4": {
+        "title": "Eğitim & Farkındalık",
+        "description": "Çalışanlarımızı düzenli olarak mevzuat ve etik konularda eğitiyoruz."
+      },
+      "5": {
+        "title": "Denetim & Raporlama",
+        "description": "Dahili ve bağımsız denetimlerle uyumu kontrol ediyor, iyileştirme raporları hazırlıyoruz.",
+        "label": "TAMAMLANDI"
+      }
+    }
+  },
+  "processing": {
+    "title": "Etik ve Uyum Politikalarımız",
+    "features": {
+      "1": {
+        "title": "Şeffaf Tedarik Zinciri",
+        "description": "Tedarikçilerimizin işçi hakları, çevre ve yasal standartlara uyumunu denetliyoruz."
+      },
+      "2": {
+        "title": "Çevre ve İş Güvenliği",
+        "description": "Üretimde kullanılan kimyasallardan iş güvenliği uygulamalarına kadar tüm çevresel ve insan odaklı süreçleri yönetiyoruz."
+      },
+      "3": {
+        "title": "Veri Gizliliği & Güvenliği",
+        "description": "Müşteri ve çalışan verilerini KVKK ve GDPR esaslarına uygun olarak koruyoruz."
+      },
+      "4": {
+        "title": "Sosyal Sorumluluk",
+        "description": "Toplumsal katkı projeleri ve gönüllü programlarla etik değerlerimizi toplumla paylaşıyoruz."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Uyumluluk & Etik Başarı Hikâyelerimiz",
+    "stories": {
+      "1": {
+        "title": "Bağımsız Denetim Onayı",
+        "description": "Uluslararası denetçi kuruluşundan tam uyum raporu alarak güvenilirliğimizi belgeledik."
+      },
+      "2": {
+        "title": "Yeşil Üretim Sertifikası",
+        "description": "Çevre dostu uygulamalarımız, “Sürdürülebilir Fabrika” sertifikasıyla tescillendi."
+      },
+      "3": {
+        "title": "Çalışan Güvenliği Sertifikasyonu",
+        "description": "İş sağlığı ve güvenliği eğitimlerimiz, iş güvenliği yönetim sistemi belgesiyle taçlandı."
+      }
+    }
+  },
+  "features": {
+    "title": "Neden Etik ve Uyumda Öncüyüz?",
+    "items": {
+      "1": {
+        "title": "Hukuki Güvence",
+        "description": "Tüm faaliyetlerimiz yasal mevzuata tam uygunluk garantisi taşır."
+      },
+      "2": {
+        "title": "Sürekli Denetim",
+        "description": "Dahili ve harici denetimlerle uyumu kesintisiz sağlıyoruz."
+      },
+      "3": {
+        "title": "Proaktif Yaklaşım",
+        "description": "Mevzuat değişikliklerini anında takip edip süreçlerimizi güncelliyoruz."
+      },
+      "4": {
+        "title": "Toplumsal Katkı",
+        "description": "Etik değerlerimizi topluma yansıtan sosyal sorumluluk projelerine öncelik veriyoruz."
+      }
+    }
+  }
+  },
+
+  "Kurumsal": {
+   "hero": {
+    "tag": "ULUSLARARASI TOPTAN TİCARET",
+    "title": "Global Toptan Deri Ürün Dağıtımı",
+    "description": "Uşak’taki üretim kapasitemizi, geniş lojistik ağımızla birleştirerek toptan deri ürünlerinizi dünya çapındaki iş ortaklarına ulaştırıyoruz."
+  },
+  "cta": {
+    "title": "Toptan Ticaret Ağına Katılın",
+    "description": "Uluslararası pazarlarda toptan ticaret çözümlerimiz ve lojistik hizmetlerimiz hakkında detaylı bilgi alın.",
+    "contactButton": "İletişime Geçin",
+    "projectsButton": "Distribütör Ağımız"
+  },
+  "production": {
+    "title": "Ticaret Süreci Adımları",
+    "steps": {
+      "1": {
+        "title": "Sipariş & Termin Belirleme",
+        "description": "Kurumsal hacminize uygun ürün seçimi ve teslimat takvimini netleştiriyoruz.",
+        "label": "1. AŞAMA"
+      },
+      "2": {
+        "title": "Paketleme & Belgeler",
+        "description": "Toptan sevkiyat için dayanıklı ambalajlama ve gümrük belgelerini hazırlıyoruz."
+      },
+      "3": {
+        "title": "Gümrükleme & Onay",
+        "description": "Ulusal ve uluslararası düzenlemelere uygun gümrük işlemlerini tamamlıyoruz."
+      },
+      "4": {
+        "title": "Nakliye & Lojistik",
+        "description": "Denizyolu, karayolu ve havayolu seçenekleriyle güvenli sevkiyat sağlıyoruz."
+      },
+      "5": {
+        "title": "Teslimat & Takip",
+        "description": "Malları varış noktasına ulaştırıp, şeffaf takip raporlarıyla teslimatı onaylıyoruz.",
+        "label": "TAMAMLANDI"
+      }
+    }
+  },
+  "processing": {
+    "title": "Lojistik ve Destek Hizmetlerimiz",
+    "features": {
+      "1": {
+        "title": "Çok Modlu Taşımacılık",
+        "description": "Karayolu, denizyolu ve havayolu entegrasyonu ile esnek çözümler sunuyoruz."
+      },
+      "2": {
+        "title": "Gerçek Zamanlı Takip",
+        "description": "Dijital platformumuzdan sevkiyatınızın her adımını izleyebilirsiniz."
+      },
+      "3": {
+        "title": "Depolama & Dağıtım",
+        "description": "Stratejik depolarımızdan dünyanın dört bir yanına hızlı sevkiyat imkânı sağlıyoruz."
+      },
+      "4": {
+        "title": "Kesintisiz Müşteri Desteği",
+        "description": "Proje yöneticilerimiz süreç boyunca koordineli destek ve danışmanlık sunar."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Ticarette Başarı Hikâyelerimiz",
+    "stories": {
+      "1": {
+        "title": "Asya Pazarına Giriş",
+        "description": "İlk büyük sevkiyatımızı Asya’ya sorunsuz ulaştırarak bölgedeki iş ortaklarımızı memnun ettik."
+      },
+      "2": {
+        "title": "E-Ticaret Entegrasyonu",
+        "description": "Online toptan satış altyapımızla global müşterilerimize 7/24 erişim sağlıyoruz."
+      },
+      "3": {
+        "title": "Ölçeklenebilir Sevkiyat",
+        "description": "Büyük hacimli siparişlerde bile zamanında ve eksiksiz teslimat performansımızı koruduk."
+      }
+    }
+  },
+  "features": {
+    "title": "Neden Çınar Deri Uluslararası Toptan?",
+    "items": {
+      "1": {
+        "title": "Geniş Global Ağ",
+        "description": "Dünya çapında seçkin distribütörler ve lojistik partnerlerle çalışıyoruz."
+      },
+      "2": {
+        "title": "Esnek İş Modelleri",
+        "description": "Küçük partilerden büyük hacimlere kadar ölçeklenebilir çözümler sunuyoruz."
+      },
+      "3": {
+        "title": "Hızlı ve Güvenilir Sevkiyat",
+        "description": "Optimal rotalar ve öncelikli transit seçenekleriyle zaman kazandırıyoruz."
+      },
+      "4": {
+        "title": "Profesyonel Danışmanlık",
+        "description": "Her adımda deneyimli ekibimizle mevzuat, gümrük ve lojistik desteği sağlıyoruz."
+      }
+    }
+  }
+  }
+}

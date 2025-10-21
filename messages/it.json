@@ -1,0 +1,950 @@
+{
+    "HomePage": {
+      "title": "Ciao!",
+      "about": "Chi siamo"
+    },
+    "Header": {
+      "deri": "Pelle",
+      "homePage": "Homepage",
+      "ourServices": "I nostri valori",
+      "purse": "Portafoglio",
+      "coat": "Giacca",
+      "ourProject": "La nostra fabbrica",
+      "blog": "Blog",
+      "about": "Chi siamo",
+      "contact": "Contatti",
+      "ourMission": "La nostra missione",
+      "ve": "e",
+      "ourVission": "La nostra visione",
+      "tumHizmetler": "Tutti i servizi"
+    },
+    "Headline": {
+      "title": "L'Eredità di Uşak, l'Arte della Pelle",
+      "subTitle": "La Qualità Dove Nasce il Design",
+      "rightText": "Uniamo la radicata tradizione della pelletteria di Uşak con l'artigianato moderno. Ogni pelle di agnello, lavorata da mani maestre, si trasforma in una tela unica per dare vita alle visioni dei designer. Offriamo qualità e tradizione per la vostra creatività."
+    },
+    "Introduction": {
+      "title": "ÇINAR DERİ - CHI SIAMO?",
+      "title2": "Diamo vita alla pelle",
+      "title3": "Modellata con maestria",
+      "title4": "Eleganza",
+      "text": "Come Çınar Deri, riflettiamo qualità e artigianalità in ogni pezzo con i nostri design moderni ispirati alla tradizione. Non ci limitiamo a lavorare la pelle, le conferiamo carattere, eleganza e una postura senza tempo. Ogni nostro prodotto è una combinazione unica di maestria e semplicità.",
+      "button1": "Esplora la nostra fabbrica",
+      "button2": "Contattaci"
+    },
+    "whyCinarSection": {
+      "headline": "Perché scegliere Çınar Deri?",
+      "subHeadline": "Ci atteniamo a tre principi fondamentali: alte prestazioni, affidabilità e innovazione.",
+      "title1": "Affidabilità",
+      "title2": "Alte Prestazioni",
+      "title3": "Innovazione",
+      "title4": "Supporto 24/7",
+      "decription1": "Come Çınar Deri, aderiamo agli standard di qualità in ogni fase e realizziamo i vostri progetti con fiducia.",
+      "decription2": "Lavoriamo con la massima efficienza nei nostri processi di produzione e servizio, offrendo soluzioni rapide alle vostre richieste.",
+      "decription3": "Seguiamo da vicino le ultime tendenze e tecnologie nel settore della pelle e sviluppiamo soluzioni moderne.",
+      "decription4": "Consideriamo la soddisfazione del cliente la nostra priorità e forniamo sempre un supporto professionale accessibile."
+    },
+    "GalleryItem": {
+      "uretim": "Scatti dalla produzione",
+      "aciklama": "Immagini dal processo di produzione di Çınar Deri con i nostri macchinari moderni e il nostro team esperto."
+    },
+    "Footer": {
+      "deri": "Pelle",
+      "slogan": "Arte in ogni tocco, qualità in ogni strato.",
+      "destek": "Supporto",
+      "sss": "FAQ",
+      "iletisim": "Contatti",
+      "hakkimizda": "Chi siamo",
+      "misyonumuz": "La nostra missione",
+      "vizyonumuz": "La nostra visione",
+      "projelerimiz": "La nostra fabbrica",
+      "blog": "Blog",
+      "hizmetlerimiz": "I nostri valori",
+      "topluluk": "Comunità",
+      "kurulus": "Fondazione e Storia",
+      "uretim": "Qualità della produzione",
+      "urun": "Varietà di prodotti",
+      "surudurulebilir": "Sostenibilità e Responsabilità",
+      "altMetin": "Çınar Deri. Tutti i diritti riservati © 2025.",
+      "cüzdan": "Import & Export",
+      "kemer": "Le nostre fonti di materie prime e pelle",
+      "canta": "Il nostro processo di produzione",
+      "bakim": "Qualità e Certificazioni",
+      "gravur": "Conformità legale ed etica",
+      "kurumsal": "Commercio all'ingrosso internazionale"
+    },
+    "Contact": {
+      "title": "I nostri canali di contatto",
+      "description": "Siamo qui per parlare del vostro progetto, rispondere a domande o fissare un appuntamento per un sopralluogo gratuito.",
+      "addressTitle": "Il nostro indirizzo",
+      "address": "Karma OSB, 7. Cd. No:28 Merkez/Uşak",
+      "openInMapsText": "Apri su Google Maps",
+      "phoneTitle": "Telefono",
+      "phone": "+90 (505) 001 95 28",
+      "phoneHintText": "Chiamate per domande rapide.",
+      "emailTitle": "E-mail",
+      "email": "info@usakcinarderi.com",
+      "emailHintText": "Per informazioni dettagliate e richieste di preventivo.",
+      "hoursTitle": "Orari di lavoro",
+      "workingHours": "Lunedì - Sabato: 09:00 - 19:00. Domenica siamo chiusi.",
+      "mapTitle": "Mappa della posizione"
+    },
+    "About": {
+      "heading": "Chi siamo",
+      "subheading": "Scoprite la storia e la maestria della famiglia Çınar Deri.",
+      "aboutImageAlt": "Immagine dell'atelier Çınar Deri",
+      "aboutSubtitle": "Dal passato al presente",
+      "aboutTitle": "Riguardo Çınar Deri",
+      "aboutText": "Çınar Deri è un'azienda a conduzione familiare che lavora con maestria le pelli di agnello della migliore qualità, combinando anni di esperienza con un approccio al design moderno. La cura che mettiamo nei dettagli artigianali di ogni prodotto ci aiuta a mantenere la soddisfazione del cliente ai massimi livelli. Dal giorno in cui abbiamo iniziato, siamo diventati un marchio affidabile nel settore con soluzioni innovative e processi sostenibili.",
+      "missionTitle": "La nostra missione",
+      "missionText": "La missione di Çınar Deri è offrire prodotti in pelle di alta qualità, sostenibili, esteticamente e funzionalmente superiori, che migliorino la qualità della vita dei nostri clienti.",
+      "visionTitle": "La nostra visione",
+      "visionText": "Rendere Çınar Deri un marchio di pelletteria leader a livello mondiale, riconosciuto per il suo design innovativo e la sua concezione di qualità.",
+      "valuesTitle": "I nostri valori",
+      "valuesText": "Con i principi di onestà, maestria, innovazione e sostenibilità, la fiducia e la qualità sono la nostra priorità in ogni passo che facciamo.",
+      "coreValuesHeading": "Il fondamento del nostro lavoro: i nostri valori",
+      "coreValuesSubheading": "I principi fondamentali che ci guidano in ogni passo che facciamo e in ogni decisione che prendiamo.",
+      "card1Title": "Soddisfazione incondizionata del cliente",
+      "card1Text": "I nostri clienti sono al centro di ogni nostro progetto. Ci concentriamo sulle vostre esigenze e offriamo soluzioni che superano le vostre aspettative.",
+      "card2Title": "Qualità e artigianalità superiori",
+      "card2Text": "Non scendiamo a compromessi sulla qualità, dalla scelta dei materiali ai dettagli finali, offrendo lavori duraturi ed estetici.",
+      "card3Title": "Piena fiducia e trasparenza",
+      "card3Text": "Costruiamo relazioni basate sulla fiducia con i nostri clienti attraverso una comunicazione trasparente e un approccio onesto nei nostri processi.",
+      "card4Title": "Approccio innovativo e moderno",
+      "card4Text": "Creiamo spazi funzionali e contemporanei rimanendo al passo con le tendenze del settore e i nuovi materiali.",
+      "card5Title": "Professionalità e competenza",
+      "card5Text": "Il nostro team esperto fornisce servizi di alto livello, dalla gestione del progetto all'implementazione.",
+      "card6Title": "Consegna puntuale e senza problemi",
+      "card6Text": "Consegniamo i vostri progetti in modo completo e senza problemi, rispettando il calendario previsto.",
+      "card7Title": "Orientamento alla soluzione",
+      "card7Text": "Affrontiamo ogni sfida che incontriamo con soluzioni proattive e creative.",
+      "card8Title": "Consapevolezza della sostenibilità",
+      "card8Text": "Aggiungiamo valore al futuro con scelte di materiali ecocompatibili e soluzioni efficienti dal punto di vista energetico."
+    },
+   "Blog": {
+      "blog": "Blog",
+      "mainTitle": "Notizie di settore, informazioni tecniche e tendenze dal produttore.",
+      "devaminiOku": "Leggi di più",
+      "close": "Chiudi",
+      "posts": [
+        {
+          "title": "Come scegliere la pelle?",
+          "excerpt": "Spessore, finitura, flessibilità. Le chiavi per il tuo progetto.",
+          "content": "Analizziamo i tipi di pelle e i metodi di concia per scegliere il materiale migliore per le tue esigenze."
+        },
+        {
+          "title": "Tendenze Pelle: A/I 2025",
+          "excerpt": "Scopri i colori e le texture principali della stagione.",
+          "content": "Dai toni della terra ai pastelli. Ispirazione per le tue nuove collezioni."
+        },
+        {
+          "title": "L'arte della concia",
+          "excerpt": "Il viaggio della pelle: da grezza a materiale premium nella nostra fabbrica.",
+          "content": "Una panoramica delle fasi: selezione, tintura e finitura delle pelli."
+        },
+        {
+          "title": "Produzione sostenibile",
+          "excerpt": "Le nostre eco-tecnologie e il nostro approccio responsabile.",
+          "content": "Riduzione del consumo d'acqua e uso di coloranti sicuri: il nostro contributo al futuro."
+        },
+        {
+          "title": "Tendenze colore nella pelle",
+          "excerpt": "La palette di colori per la pelle autunno-inverno 2025.",
+          "content": "In questa stagione, le tonalità bordeaux, oliva e marrone scuro sono di tendenza per le collezioni."
+        },
+        {
+          "title": "FAQ sulla qualità della pelle",
+          "excerpt": "Domande frequenti su resistenza e proprietà.",
+          "content": "Risposte a domande su resistenza all'usura, elasticità e cura del materiale in produzione."
+        },
+        {
+          "title": "Ordini personalizzati",
+          "excerpt": "Sviluppo di colori e texture unici per il tuo marchio.",
+          "content": "Offriamo servizi per creare lotti di pelle esclusivi secondo le tue specifiche."
+        },
+        {
+          "title": "Vantaggi della pelle naturale",
+          "excerpt": "Perché preferire la pelle naturale alla sintetica.",
+          "content": "La pelle naturale è traspirante, durevole e acquisisce un carattere unico nel tempo."
+        },
+        {
+          "title": "Cura della pelle in produzione",
+          "excerpt": "Consigli per la conservazione e la lavorazione della pelle.",
+          "content": "Corretta conservazione e lavorazione della pelle nel tuo stabilimento per mantenerne la qualità."
+        },
+        {
+          "title": "Organizzazione delle forniture",
+          "excerpt": "Come garantiamo la consegna puntuale dei lotti.",
+          "content": "Le nostre soluzioni logistiche per una consegna degli ordini efficiente e rapida."
+        },
+        {
+          "title": "Tendenze nelle texture",
+          "excerpt": "Le texture di pelle più popolari per la nuova stagione.",
+          "content": "La nappa liscia e il velluto scamosciato sono i preferiti di questa stagione. Aggiungili ai tuoi design."
+        },
+        {
+          "title": "Ergonomia del materiale",
+          "excerpt": "Come scegliere spessore e densità della pelle per i prodotti?",
+          "content": "Consigli sulla scelta delle caratteristiche della pelle per garantire comfort nel prodotto finale."
+        },
+        {
+          "title": "Guida ai tipi di pelle",
+          "excerpt": "Breve panoramica sui diversi tipi di pelle e le loro applicazioni.",
+          "content": "Nappa, velluto, nabuk: comprendiamo le caratteristiche di ogni tipo per la scelta giusta."
+        },
+        {
+          "title": "Panoramica delle tecnologie",
+          "excerpt": "Metodi moderni di finitura della pelle.",
+          "content": "Cere e oli naturali migliorano l'aspetto e la durata della pelle."
+        },
+        {
+          "title": "Visita la nostra fabbrica",
+          "excerpt": "Vivi il processo di produzione con i tuoi occhi.",
+          "content": "Invitiamo i partner a visitare la nostra produzione e a conoscere i nostri maestri."
+        },
+        {
+          "title": "Produzione sostenibile di pelle",
+          "excerpt": "I nostri metodi di produzione ecocompatibili.",
+          "content": "Ricicliamo gli scarti e utilizziamo coloranti e metodi di concia ecologici."
+        },
+        {
+          "title": "Fonti di ispirazione",
+          "excerpt": "La storia del processo creativo per le nuove collezioni.",
+          "content": "Natura e architettura sono le principali fonti di ispirazione per le nostre nuove texture."
+        },
+        {
+          "title": "Annuncio nuova collezione",
+          "excerpt": "La nostra collezione estiva di pelli sarà presto disponibile!",
+          "content": "Colori vivaci e texture leggere per le tue collezioni estive. Lancio a settembre."
+        },
+        {
+          "title": "Pelle per pelletteria",
+          "excerpt": "Estetica e funzionalità nei nostri materiali.",
+          "content": "Le nostre pelli con finiture minimaliste sono ideali per creare articoli di stile."
+        },
+        {
+          "title": "Notizie da Çınar Deri",
+          "excerpt": "Gli ultimi sviluppi e aggiornamenti dall'azienda.",
+          "content": "Scopri le nostre nuove tecnologie, la partecipazione a fiere e i nostri progetti."
+        }
+      ]
+    },
+    "Project": {
+      "projects": {
+        "featured": {
+          "title": "La nostra fabbrica",
+          "description": "Immagini dal processo di produzione del nostro team di esperti e delle attrezzature ad alta tecnologia nelle nostre strutture."
+        },
+        "list": {
+          "cuzdan": {
+            "title": "Import & Export",
+            "description": "Lavoriamo le pelli che otteniamo da Uşak e le esportiamo sui mercati globali."
+          },
+          "kemer": {
+            "title": "Le nostre fonti di materie prime e pelle",
+            "description": "Pelli di agnello accuratamente selezionate garantiscono qualità e resistenza."
+          },
+          "canta": {
+            "title": "Il nostro processo di produzione",
+            "description": "Gestiamo tutte le fasi, dal taglio al confezionamento, in modo trasparente e meticoloso."
+          },
+          "bakim": {
+            "title": "Qualità e Certificazioni",
+            "description": "Documentiamo l'affidabilità dei nostri prodotti con i nostri certificati ISO, CE e TÜRKAK."
+          },
+          "gravur": {
+            "title": "Conformità legale ed etica",
+            "description": "Svolgiamo tutte le nostre attività in conformità con la legislazione e i principi etici."
+          },
+          "kurumsal": {
+            "title": "Commercio all'ingrosso internazionale",
+            "description": "Offriamo con sicurezza i vostri prodotti ai nostri partner commerciali attraverso la nostra rete globale di commercio all'ingrosso."
+          }
+        },
+        "all": {
+          "title": "Tour della fabbrica",
+          "description": "Scoprite le nostre strutture passo dopo passo."
+        },
+        "buttons": {
+          "discover": "Inizia il tour",
+          "more": "Dettagli"
+        }
+      },
+      "approach": {
+        "title": "Il nostro approccio alla produzione",
+        "description": "Gestiamo i nostri processi di produzione nella nostra fabbrica con i principi di efficienza, qualità e sostenibilità.",
+        "steps": {
+          "discovery": {
+            "title": "Pianificazione e preparazione",
+            "description": "Analizziamo i requisiti dell'ordine e pianifichiamo la linea di produzione e i materiali."
+          },
+          "communication": {
+            "title": "Comunicazione trasparente",
+            "description": "Condividiamo i processi e il calendario di consegna con aggiornamenti regolari durante la produzione."
+          },
+          "quality": {
+            "title": "Qualità e ispezione",
+            "description": "Garantiamo gli standard dei prodotti con severi controlli di qualità e test in ogni fase."
+          }
+        }
+      }
+    },
+    "Services": {
+      "hizmetlerimiz": "I nostri valori",
+      "mainTitle": "Benvenuti nell'eredità radicata di Çınar Deri e nella responsabilità che portiamo verso il futuro. Eccellenza e fiducia vi incontrano in ogni passo.",
+      "title1": "Import & Export",
+      "text1": "Esportiamo le pelli che otteniamo da Uşak lavorandole per i mercati globali.",
+      "title2": "Le nostre fonti di materie prime e pelle",
+      "text2": "Le pelli di agnello accuratamente selezionate garantiscono qualità e durata.",
+      "title3": "Processo di produzione",
+      "text3": "Offriamo un'esperienza impeccabile dal taglio della pelle al montaggio con processi trasparenti e team di esperti.",
+      "title4": "Qualità e Certificazioni",
+      "text4": "Documentiamo l'affidabilità dei nostri prodotti con i nostri certificati ISO e il nostro laboratorio di prova.",
+      "title5": "Conformità legale ed etica",
+      "text5": "Siamo impegnati a rispettare gli standard etici e legali con una produzione che rispetta l'ambiente e i diritti dei lavoratori.",
+      "title6": "Commercio all'ingrosso internazionale",
+      "text6": "Offriamo le pelli che produciamo a Uşak ai mercati mondiali in modo rapido e affidabile all'ingrosso con la nostra rete logistica globale.",
+      "button": "Contattaci",
+      "gozAt": "Sfoglia",
+      "OrijinalMainTitle": "Siamo al vostro fianco con le nostre aree di competenza offerte da Çınar Deri.",
+      "OrijinalTitle1": "Portafoglio fatto a mano",
+      "OrijinalText1": "Modelli di portafogli eleganti e resistenti, prodotti con pelle di agnello di qualità, grazie al lavoro manuale dei nostri artigiani.",
+      "OrijinalTitle2": "Cinture e accessori",
+      "OrijinalText2": "Design personalizzati di cinture e accessori in pelle con opzioni di misura, colore e fibbia su misura.",
+      "OrijinalTitle3": "Borse e portadocumenti",
+      "OrijinalText3": "Soluzioni funzionali ed estetiche di borse e portadocumenti in pelle per supportare con stile la vostra vita d'ufficio.",
+      "OrijinalTitle4": "Riparazione e manutenzione della pelle",
+      "OrijinalText4": "Ripariamo l'usura che si verifica con l'uso con metodi professionali, prolungando la vita della vostra pelle.",
+      "OrijinalTitle5": "Incisione personalizzata",
+      "OrijinalText5": "Prodotti completamente personalizzati con l'incisione di nomi, loghi o disegni speciali sulla superficie della pelle.",
+      "OrijinalTitle6": "Produzione aziendale",
+      "OrijinalText6": "Produzione di massa di prodotti in pelle per aziende e organizzazioni e soluzioni prestigiose per regali aziendali."
+    },
+    "MissionVision": {
+      "misyonVizyon": "La nostra missione e visione",
+      "mainTitle": "Scoprite insieme da dove veniamo e dove vogliamo andare come Çınar Deri."
+    },
+    "SliderHeadline": {
+      "title1": "Precisione Millimetrica, Qualità Superiore",
+      "text1": "Lavoriamo le pelli di agnello più preziose di Uşak con le mani maestre di Çınar Deri. Cattura con noi quel tocco perfetto che darà vita ai tuoi design.",
+      "title2": "Dove la Natura Incontra l'Arte",
+      "text2": "Trasformiamo ogni foglio di pelle in un'opera d'arte con texture e colori unici. Siamo pronti a diventare la tua fonte di ispirazione per le tue collezioni.",
+      "title3": "Colori e Texture Illimitati",
+      "text3": "Per i design dei tuoi sogni, offriamo soluzioni in pelle personalizzate per il tuo progetto con la nostra ricca palette di colori e tecniche di lavorazione speciali.",
+      "title4": "Artigianato Sostenibile",
+      "text4": "Con il nostro approccio produttivo che rispetta la natura, lavoriamo pelli di altissima qualità con processi eco-compatibili, lasciando un'eredità responsabile per il futuro."
+    },
+    "StoryTelling": {
+      "title1": "Un inizio giovane e appassionato",
+      "text1": "Çınar Deri unisce qualità e cura nei prodotti in pelle con un team giovane e dinamico. Ogni pezzo è progettato e prodotto con passione.",
+      "title2": "Artigianalità e attenzione ai dettagli",
+      "text2": "Nei nostri prodotti, uniamo l'artigianato tradizionale con il design moderno. Ogni cucitura, ogni dettaglio è realizzato per qualità e durata.",
+      "title3": "Design eleganti e funzionali",
+      "text3": "Eleganza e funzionalità insieme; creiamo accessori che saranno con voi in ogni momento della vita quotidiana.",
+      "title4": "Soddisfazione del cliente e sostenibilità",
+      "text4": "La soddisfazione dei nostri clienti e la produzione sostenibile sono la nostra priorità. Offriamo prodotti duraturi con materiali rispettosi della natura."
+    },
+    "HandmadeWallet": {
+      "hero": {
+        "tag": "IMPORT & EXPORT",
+        "title": "Centro commerciale globale Çınar Deri",
+        "description": "Forniamo ininterrottamente i nostri prodotti in pelle ai mercati mondiali con le nostre operazioni di importazione ed esportazione che partono dalle nostre basi logistiche a Uşak."
+      },
+      "cta": {
+        "title": "Scoprite la nostra rete commerciale",
+        "description": "Ottenete informazioni sui nostri processi di importazione ed esportazione, sulle nostre infrastrutture di stoccaggio e spedizione.",
+        "contactButton": "Contattaci",
+        "projectsButton": "La nostra rete logistica"
+      },
+      "production": {
+        "title": "Fasi del processo commerciale",
+        "steps": {
+          "1": {
+            "title": "Accettazione input e controllo qualità",
+            "description": "Ci assicuriamo di soddisfare i criteri di qualità per le pelli grezze importate.",
+            "label": "FASE 1"
+          },
+          "2": {
+            "title": "Stoccaggio e preparazione per la spedizione",
+            "description": "Conserviamo i prodotti nei nostri magazzini a clima controllato e li prepariamo per la spedizione."
+          },
+          "3": {
+            "title": "Procedure doganali e documentali",
+            "description": "Completiamo meticolosamente la dichiarazione doganale e i documenti necessari come richiesto dalla legislazione nazionale e internazionale."
+          },
+          "4": {
+            "title": "Spedizione internazionale",
+            "description": "Garantiamo consegne sicure e puntuali con i nostri partner stradali, marittimi e aerei."
+          },
+          "5": {
+            "title": "Consegna e tracciamento",
+            "description": "Consegniamo la merce a destinazione e la tracciamo in modo trasparente fino al cliente.",
+            "label": "COMPLETATO"
+          }
+        }
+      },
+      "processing": {
+        "title": "Caratteristiche logistiche e operative",
+        "features": {
+          "1": {
+            "title": "Trasporto multimodale",
+            "description": "Offriamo soluzioni logistiche flessibili con opzioni stradali, marittime e aeree."
+          },
+          "2": {
+            "title": "Sdoganamento rapido",
+            "description": "Completiamo le procedure doganali con un'attesa minima grazie al nostro team di esperti."
+          },
+          "3": {
+            "title": "Tracciamento in tempo reale",
+            "description": "Potete monitorare ogni fase del vostro carico attraverso la nostra piattaforma digitale."
+          },
+          "4": {
+            "title": "Stoccaggio sicuro",
+            "description": "I vostri prodotti sono protetti nei nostri magazzini a clima controllato e assicurati."
+          }
+        }
+      },
+      "storytelling": {
+        "title": "Storie di successo commerciale",
+        "stories": {
+          "1": {
+            "title": "Apertura a un nuovo mercato",
+            "description": "La nostra prima spedizione al mercato asiatico è stata completata con grande soddisfazione e uno sdoganamento rapido."
+          },
+          "2": {
+            "title": "Integrazione del tracciamento digitale",
+            "description": "Il portale di tracciamento che abbiamo sviluppato per i nostri clienti ha aumentato la visibilità delle spedizioni al 100%."
+          },
+          "3": {
+            "title": "Modello di trasporto flessibile",
+            "description": "Abbiamo ottimizzato costi e tempi utilizzando una combinazione di trasporto aereo per ordini urgenti e marittimo per grandi volumi."
+          }
+        }
+      },
+      "features": {
+        "title": "Perché scegliere Çınar Deri per Import & Export?",
+        "items": {
+          "1": {
+            "title": "Rete logistica globale",
+            "description": "Una vasta rete di trasporti con partner affidabili in tutto il mondo."
+          },
+          "2": {
+            "title": "Servizi doganali esperti",
+            "description": "Tutti i documenti commerciali sono preparati in modo impeccabile dal nostro team esperto."
+          },
+          "3": {
+            "title": "Soluzioni di stoccaggio flessibili",
+            "description": "Opzioni di stoccaggio a breve e lungo termine a clima controllato."
+          },
+          "4": {
+            "title": "Tracciamento e reporting trasparenti",
+            "description": "Offriamo aggiornamenti in tempo reale e report dettagliati sulle prestazioni per ogni spedizione."
+          }
+        }
+      }
+    },
+    "BagPortfolio": {
+      "hero": {
+        "tag": "IL NOSTRO PROCESSO DI PRODUZIONE",
+        "title": "Eccellenza passo dopo passo nella produzione della pelle",
+        "description": "Nello stabilimento di Çınar Deri, la meticolosità e la trasparenza sono in primo piano in ogni fase, dalla migliore materia prima al montaggio finale."
+      },
+      "cta": {
+        "title": "Volete vedere il nostro processo di produzione sul posto?",
+        "description": "Esaminate tutte le fasi, dal taglio alla lucidatura, accompagnati dal nostro team di esperti, o esplorate con un tour virtuale.",
+        "contactButton": "Contattaci",
+        "projectsButton": "Galleria del processo"
+      },
+      "production": {
+        "title": "Flusso di produzione passo dopo passo",
+        "steps": {
+          "1": {
+            "title": "Selezione della materia prima",
+            "description": "Le pelli di agnello certificate vengono selezionate in base a criteri di qualità, spessore e flessibilità.",
+            "label": "FASE 1"
+          },
+          "2": {
+            "title": "Taglio e pre-trattamento",
+            "description": "Taglio dei pezzi con precisione millimetrica e preparazione della superficie con macchine da taglio brevettate."
+          },
+          "3": {
+            "title": "Concia e colorazione",
+            "description": "Alla pelle vengono conferiti colori durevoli e vivaci con tecniche di concia vegetale e tintura a mano."
+          },
+          "4": {
+            "title": "Cucitura e assemblaggio",
+            "description": "I pezzi, la cui durata è prolungata, vengono assemblati con il metodo della doppia cucitura e un montaggio preciso."
+          },
+          "5": {
+            "title": "Finitura bordi e lucidatura",
+            "description": "Vengono applicate speciali cere e tinture per bordi per levigatezza e protezione.",
+            "label": "FASE 5"
+          },
+          "6": {
+            "title": "Controllo qualità",
+            "description": "Ogni pezzo viene sottoposto a severi controlli di colore, consistenza e durata."
+          },
+          "7": {
+            "title": "Imballaggio e spedizione",
+            "description": "I vostri prodotti vi vengono consegnati in sicurezza con un imballaggio accurato e una logistica rapida.",
+            "label": "FASE 7"
+          }
+        }
+      },
+      "processing": {
+        "title": "Tecnologie utilizzate nella produzione",
+        "features": {
+          "1": {
+            "title": "Sistemi di taglio automatici",
+            "description": "Riduciamo gli sprechi con macchine CNC ad alta precisione."
+          },
+          "2": {
+            "title": "Concia ecologica",
+            "description": "Utilizziamo soluzioni di concia a risparmio idrico e biodegradabili."
+          },
+          "3": {
+            "title": "Supporto al montaggio robotizzato",
+            "description": "Garantiamo una qualità costante con bracci robotici nelle fasi critiche di montaggio."
+          },
+          "4": {
+            "title": "Tracciamento e rintracciabilità intelligenti",
+            "description": "Offriamo trasparenza del processo con un sistema di codici a barre digitali per ogni lotto."
+          }
+        }
+      },
+      "storytelling": {
+        "title": "Storie ispiratrici dalla produzione",
+        "stories": {
+          "1": {
+            "title": "Conformità al 99%",
+            "description": "Con l'integrazione del taglio automatico, il nostro tasso di errore è sceso dal 5% all'1%."
+          },
+          "2": {
+            "title": "Successo della concia ecologica",
+            "description": "Con la nostra nuova linea di concia, abbiamo ridotto il consumo di acqua del 40%."
+          },
+          "3": {
+            "title": "Elaborazione rapida degli ordini",
+            "description": "Consegniamo i vostri ordini in tempo e per intero con fasi di produzione flessibili e ottimizzate."
+          }
+        }
+      },
+      "features": {
+        "title": "Caratteristiche distintive del nostro processo produttivo",
+        "items": {
+          "1": {
+            "title": "Completa trasparenza del processo",
+            "description": "Possibilità di reporting e tracciamento in tempo reale in ogni fase."
+          },
+          "2": {
+            "title": "Alta capacità e flessibilità",
+            "description": "Adattamento rapido dalla produzione personalizzata su piccola scala agli ordini di grandi volumi."
+          },
+          "3": {
+            "title": "Approccio sostenibile",
+            "description": "Uso di attrezzature ad alta efficienza energetica e prodotti chimici ecologici."
+          },
+          "4": {
+            "title": "Personale esperto",
+            "description": "Un team composto da ingegneri e artigiani esperti nel loro campo."
+          }
+        }
+      }
+    },
+    "BeltAccessory": {
+      "hero": {
+        "tag": "LE NOSTRE FONTI DI MATERIE PRIME E PELLE",
+        "title": "Le nostre pelli di agnello selezionate secondo i più severi standard di qualità",
+        "description": "Come Çınar Deri, utilizziamo pelli di agnello accuratamente selezionate da fornitori certificati, garantite dalla materia prima al prodotto finale."
+      },
+      "cta": {
+        "title": "Scoprite il nostro processo di approvvigionamento",
+        "description": "Contattateci per conoscere ogni fase, dalla selezione dei fornitori ai certificati di qualità in arrivo.",
+        "contactButton": "Contattaci",
+        "projectsButton": "La nostra rete di fornitori"
+      },
+      "production": {
+        "title": "Il nostro processo di approvvigionamento e pre-trattamento",
+        "steps": {
+          "1": {
+            "title": "Valutazione del fornitore",
+            "description": "Selezioniamo attentamente allevamenti e macelli certificati conformi agli standard internazionali.",
+            "label": "PASSO 1"
+          },
+          "2": {
+            "title": "Selezione della pelle grezza",
+            "description": "Le pelli vengono sottoposte a un'ispezione fisica dettagliata per difetti di taglio, spessore e criteri di flessibilità."
+          },
+          "3": {
+            "title": "Pulizia e conservazione",
+            "description": "La superficie della pelle viene preparata per la lavorazione con una pre-pulizia effettuata con sale naturale e prodotti chimici leggeri."
+          },
+          "4": {
+            "title": "Preparazione alla concia vegetale",
+            "description": "Si ottengono la densità e i valori di pH appropriati per i liquidi di concia preparati con estratti vegetali."
+          },
+          "5": {
+            "title": "Stoccaggio e spedizione",
+            "description": "Le pelli, conservate nei nostri magazzini a clima controllato, vengono imballate per la spedizione specifica dell'ordine.",
+            "label": "PASSO 5"
+          }
+        }
+      },
+      "processing": {
+        "title": "I nostri controlli di qualità delle materie prime",
+        "features": {
+          "1": {
+            "title": "Fonte certificata",
+            "description": "Per ogni lotto vengono forniti rapporti sanitari veterinari e documenti di conformità ambientale."
+          },
+          "2": {
+            "title": "Protocolli di test fisici",
+            "description": "Le prestazioni di ogni lotto di pelle vengono misurate con test di flessibilità, durata e resistenza all'umidità."
+          },
+          "3": {
+            "title": "Controllo della coerenza di colore e tono",
+            "description": "La coerenza del tono prima e dopo la concia viene verificata con uno spettrofotometro."
+          },
+          "4": {
+            "title": "Gestione sostenibile delle risorse",
+            "description": "L'equilibrio ecologico viene preservato con prodotti chimici per la concia ecologici e sistemi di trattamento delle acque reflue."
+          }
+        }
+      },
+      "storytelling": {
+        "title": "Le nostre storie di approvvigionamento",
+        "stories": {
+          "1": {
+            "title": "Collaborazione con allevamenti locali",
+            "description": "Portiamo la qualità dal locale al globale con le pelli che acquistiamo direttamente dalle aziende agricole familiari della regione."
+          },
+          "2": {
+            "title": "Standard internazionali",
+            "description": "Aumentiamo la nostra diversità con le pelli che riceviamo dai nostri fornitori certificati in Europa e Nord America."
+          },
+          "3": {
+            "title": "Progetto di concia ecologica",
+            "description": "Sviluppiamo metodi ecologici che consentono di risparmiare acqua ed energia nel nostro impianto di concia vegetale."
+          }
+        }
+      },
+      "features": {
+        "title": "Caratteristiche principali nella selezione delle materie prime",
+        "items": {
+          "1": {
+            "title": "Completa trasparenza",
+            "description": "Offriamo tracciabilità e garanzia documentale in ogni fase della nostra catena di approvvigionamento."
+          },
+          "2": {
+            "title": "Resistenza fisica superiore",
+            "description": "Flessibilità e resistenza allo strappo comprovate da test."
+          },
+          "3": {
+            "title": "Coerenza del colore naturale",
+            "description": "Grazie alla concia vegetale, ogni lotto offre tonalità uniche e vivaci."
+          },
+          "4": {
+            "title": "Approccio ecologico",
+            "description": "Garantiamo la sostenibilità utilizzando il trattamento delle acque reflue e prodotti chimici per la concia riciclabili."
+          }
+        }
+      }
+    },
+    "BakimVeOnarim": {
+      "hero": {
+        "tag": "QUALITÀ E CERTIFICAZIONI",
+        "title": "I nostri standard e documenti di qualità internazionali",
+        "description": "Come Çınar Deri, dotiamo ogni nostro prodotto di certificati come ISO, CE, TÜRKAK e REACH; garantiamo la qualità in ogni fase."
+      },
+      "cta": {
+        "title": "Accedi ai nostri documenti di qualità",
+        "description": "Contattateci per un elenco completo delle nostre certificazioni e dei nostri rapporti di prova o richiedete una copia digitale.",
+        "contactButton": "Contattaci",
+        "projectsButton": "Rapporti di prova"
+      },
+      "production": {
+        "title": "Il nostro processo di gestione della qualità",
+        "steps": {
+          "1": {
+            "title": "Creazione della politica di qualità",
+            "description": "Definiamo la nostra politica di qualità in base alle aspettative dei clienti e ai requisiti legali.",
+            "label": "PASSO 1"
+          },
+          "2": {
+            "title": "Documentazione e pianificazione",
+            "description": "Pianifichiamo tutti i processi con procedure scritte, chiarendo le responsabilità."
+          },
+          "3": {
+            "title": "Implementazione e formazione",
+            "description": "Forniamo una formazione regolare al nostro personale e applichiamo gli standard di qualità sul campo."
+          },
+          "4": {
+            "title": "Monitoraggio e misurazione",
+            "description": "Monitoriamo costantemente le prestazioni della produzione e analizziamo i risultati delle misurazioni."
+          },
+          "5": {
+            "title": "Azioni correttive e preventive",
+            "description": "Miglioriamo i nostri processi intervenendo immediatamente sulle non conformità rilevate.",
+            "label": "COMPLETATO"
+          }
+        }
+      },
+      "processing": {
+        "title": "Il nostro laboratorio di test e ispezione",
+        "features": {
+          "1": {
+            "title": "Test di resistenza fisica",
+            "description": "Documentiamo le prestazioni della pelle con test di abrasione, strappo e flessibilità."
+          },
+          "2": {
+            "title": "Analisi chimiche",
+            "description": "Eseguiamo analisi di laboratorio per la conformità ai limiti REACH e dei metalli pesanti."
+          },
+          "3": {
+            "title": "Coerenza di colore e tono",
+            "description": "Verifichiamo la coerenza del colore per lotto con misurazioni spettrofotometriche."
+          },
+          "4": {
+            "title": "Audit di conformità ambientale",
+            "description": "Controlliamo l'impatto ambientale della nostra produzione con test sulle acque reflue e sulle emissioni."
+          }
+        }
+      },
+      "storytelling": {
+        "title": "Le nostre storie di successo nella qualità",
+        "stories": {
+          "1": {
+            "title": "La nostra certificazione ISO 9001:2015",
+            "description": "Documentando la nostra conformità allo standard internazionale di gestione della qualità, abbiamo aumentato la soddisfazione dei clienti."
+          },
+          "2": {
+            "title": "Approvazione di conformità CE",
+            "description": "Garantiamo la sicurezza dei nostri prodotti con il certificato di conformità al mercato europeo."
+          },
+          "3": {
+            "title": "Accreditamento TÜRKAK",
+            "description": "Garantiamo la piena tracciabilità con i test che eseguiamo nel nostro laboratorio accreditato."
+          }
+        }
+      },
+      "features": {
+        "title": "Perché la qualità di Çınar Deri?",
+        "items": {
+          "1": {
+            "title": "Standard internazionali",
+            "description": "Garanzia di piena conformità con i documenti ISO, CE, REACH e TÜRKAK."
+          },
+          "2": {
+            "title": "Reporting trasparente",
+            "description": "Forniamo rapporti di prova dettagliati per ogni lotto di produzione."
+          },
+          "3": {
+            "title": "Il nostro laboratorio",
+            "description": "Eseguiamo test e ispezioni 24/7 nel nostro laboratorio interno completamente attrezzato."
+          },
+          "4": {
+            "title": "Miglioramento continuo",
+            "description": "Aumentiamo costantemente la qualità con azioni correttive e feedback dei clienti."
+          }
+        }
+      }
+    },
+    "Gravur": {
+      "hero": {
+        "tag": "CONFORMITÀ LEGALE ED ETICA",
+        "title": "Piena trasparenza e garanzia legale nella produzione",
+        "description": "Come Çınar Deri, agiamo in piena conformità con la legislazione vigente e nel quadro dei valori etici in tutte le nostre attività."
+      },
+      "cta": {
+        "title": "Esaminate le nostre politiche di conformità",
+        "description": "Contattateci per informazioni dettagliate sui nostri documenti legali, certificazioni e principi etici.",
+        "contactButton": "Contattaci",
+        "projectsButton": "I nostri rapporti etici"
+      },
+      "production": {
+        "title": "Il nostro processo di conformità",
+        "steps": {
+          "1": {
+            "title": "Analisi dei requisiti legali",
+            "description": "Seguiamo costantemente la legislazione e le normative di settore e prepariamo un piano di conformità adeguato alle esigenze.",
+            "label": "PASSO 1"
+          },
+          "2": {
+            "title": "Valutazione dei rischi",
+            "description": "Identifichiamo i potenziali rischi legali ed etici nella catena di approvvigionamento e produzione e adottiamo misure preventive."
+          },
+          "3": {
+            "title": "Standardizzazione e documentazione",
+            "description": "Trasformiamo tutti i processi in procedure scritte e li registriamo."
+          },
+          "4": {
+            "title": "Formazione e sensibilizzazione",
+            "description": "Formiamo regolarmente i nostri dipendenti su questioni legislative ed etiche."
+          },
+          "5": {
+            "title": "Audit e reporting",
+            "description": "Controlliamo la conformità con audit interni e indipendenti e prepariamo rapporti di miglioramento.",
+            "label": "COMPLETATO"
+          }
+        }
+      },
+      "processing": {
+        "title": "Le nostre politiche etiche e di conformità",
+        "features": {
+          "1": {
+            "title": "Catena di approvvigionamento trasparente",
+            "description": "Controlliamo la conformità dei nostri fornitori ai diritti dei lavoratori, agli standard ambientali e legali."
+          },
+          "2": {
+            "title": "Ambiente e sicurezza sul lavoro",
+            "description": "Gestiamo tutti i processi ambientali e incentrati sull'uomo, dai prodotti chimici utilizzati nella produzione alle pratiche di sicurezza sul lavoro."
+          },
+          "3": {
+            "title": "Privacy e sicurezza dei dati",
+            "description": "Proteggiamo i dati dei clienti e dei dipendenti in conformità con i principi KVKK e GDPR."
+          },
+          "4": {
+            "title": "Responsabilità sociale",
+            "description": "Condividiamo i nostri valori etici con la società attraverso progetti di contributo sociale e programmi di volontariato."
+          }
+        }
+      },
+      "storytelling": {
+        "title": "Le nostre storie di successo in conformità ed etica",
+        "stories": {
+          "1": {
+            "title": "Approvazione di audit indipendente",
+            "description": "Abbiamo documentato la nostra affidabilità ricevendo un rapporto di piena conformità da un'organizzazione di audit internazionale."
+          },
+          "2": {
+            "title": "Certificato di produzione ecologica",
+            "description": "Le nostre pratiche ecocompatibili sono state registrate con il certificato \"Fabbrica Sostenibile\"."
+          },
+          "3": {
+            "title": "Certificazione sulla sicurezza dei dipendenti",
+            "description": "La nostra formazione sulla salute e sicurezza sul lavoro è stata coronata da un certificato del sistema di gestione della sicurezza sul lavoro."
+          }
+        }
+      },
+      "features": {
+        "title": "Perché siamo leader in etica e conformità?",
+        "items": {
+          "1": {
+            "title": "Garanzia legale",
+            "description": "Tutte le nostre attività sono garantite per essere in piena conformità con la legislazione legale."
+          },
+          "2": {
+            "title": "Audit continuo",
+            "description": "Garantiamo una conformità ininterrotta con audit interni ed esterni."
+          },
+          "3": {
+            "title": "Approccio proattivo",
+            "description": "Seguiamo immediatamente le modifiche legislative e aggiorniamo i nostri processi."
+          },
+          "4": {
+            "title": "Contributo sociale",
+            "description": "Diamo priorità ai progetti di responsabilità sociale che riflettono i nostri valori etici nella società."
+          }
+        }
+      }
+    },
+    "Kurumsal": {
+      "hero": {
+        "tag": "COMMERCIO ALL'INGROSSO INTERNAZIONALE",
+        "title": "Distribuzione globale all'ingrosso di prodotti in pelle",
+        "description": "Uniamo la nostra capacità produttiva a Uşak con la nostra vasta rete logistica per fornire i vostri prodotti in pelle all'ingrosso a partner commerciali in tutto il mondo."
+      },
+      "cta": {
+        "title": "Unisciti alla rete di commercio all'ingrosso",
+        "description": "Ottieni informazioni dettagliate sulle nostre soluzioni di commercio all'ingrosso e sui nostri servizi logistici nei mercati internazionali.",
+        "contactButton": "Contattaci",
+        "projectsButton": "La nostra rete di distributori"
+      },
+      "production": {
+        "title": "Fasi del processo commerciale",
+        "steps": {
+          "1": {
+            "title": "Ordine e definizione dei termini",
+            "description": "Chiarifichiamo la selezione dei prodotti e il calendario di consegna adatti al vostro volume aziendale.",
+            "label": "FASE 1"
+          },
+          "2": {
+            "title": "Imballaggio e documenti",
+            "description": "Prepariamo imballaggi durevoli per la spedizione all'ingrosso e i documenti doganali."
+          },
+          "3": {
+            "title": "Sdoganamento e approvazione",
+            "description": "Completiamo le procedure doganali in conformità con le normative nazionali e internazionali."
+          },
+          "4": {
+            "title": "Trasporto e logistica",
+            "description": "Garantiamo spedizioni sicure con opzioni marittime, stradali e aeree."
+          },
+          "5": {
+            "title": "Consegna e tracciamento",
+            "description": "Consegniamo la merce a destinazione e confermiamo la consegna con rapporti di tracciamento trasparenti.",
+            "label": "COMPLETATO"
+          }
+        }
+      },
+      "processing": {
+        "title": "I nostri servizi di logistica e supporto",
+        "features": {
+          "1": {
+            "title": "Trasporto multimodale",
+            "description": "Offriamo soluzioni flessibili con integrazione stradale, marittima e aerea."
+          },
+          "2": {
+            "title": "Tracciamento in tempo reale",
+            "description": "Potete monitorare ogni fase della vostra spedizione dalla nostra piattaforma digitale."
+          },
+          "3": {
+            "title": "Stoccaggio e distribuzione",
+            "description": "Forniamo spedizioni rapide in tutto il mondo dai nostri magazzini strategici."
+          },
+          "4": {
+            "title": "Supporto clienti continuo",
+            "description": "I nostri project manager forniscono supporto coordinato e consulenza durante tutto il processo."
+          }
+        }
+      },
+      "storytelling": {
+        "title": "Le nostre storie di successo nel commercio",
+        "stories": {
+          "1": {
+            "title": "Ingresso nel mercato asiatico",
+            "description": "Abbiamo soddisfatto i nostri partner commerciali nella regione consegnando senza problemi la nostra prima grande spedizione in Asia."
+          },
+          "2": {
+            "title": "Integrazione e-commerce",
+            "description": "Forniamo accesso 24/7 ai nostri clienti globali con la nostra infrastruttura di vendita all'ingrosso online."
+          },
+          "3": {
+            "title": "Spedizione scalabile",
+            "description": "Abbiamo mantenuto le nostre prestazioni di consegna puntuali e complete anche per ordini di grandi volumi."
+          }
+        }
+      },
+      "features": {
+        "title": "Perché Çınar Deri per il commercio all'ingrosso internazionale?",
+        "items": {
+          "1": {
+            "title": "Ampia rete globale",
+            "description": "Lavoriamo con distributori e partner logistici selezionati in tutto il mondo."
+          },
+          "2": {
+            "title": "Modelli di business flessibili",
+            "description": "Offriamo soluzioni scalabili da piccoli lotti a grandi volumi."
+          },
+          "3": {
+            "title": "Spedizione rapida e affidabile",
+            "description": "Risparmiamo tempo con rotte ottimali e opzioni di transito prioritarie."
+          },
+          "4": {
+            "title": "Consulenza professionale",
+            "description": "Forniamo supporto legislativo, doganale e logistico con il nostro team esperto in ogni fase."
+          }
+        }
+      }
+    }
+  }

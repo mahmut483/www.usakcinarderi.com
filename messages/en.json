@@ -1,0 +1,959 @@
+{
+  "HomePage": {
+    "title": "Hello!",
+    "about": "Go to the about page"
+  },
+
+  "Header":{
+    "deri": "Leather",
+    "homePage": "Home Page",
+    "ourServices": "Our Values",
+    "purse": "Purse",
+    "coat": "Coat",
+    "ourProject": "Our Factory",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "ourMission": "Our Mission",
+    "ve": "And",
+    "ourVission": "Our Vission",
+    "tumHizmetler": "All Services"
+  },
+
+ "Headline": {
+      "title": "Uşak's Heritage, The Art of Leather",
+      "subTitle": "The Quality Where Design Begins",
+      "rightText": "We combine Uşak's deep-rooted leather tradition with modern craftsmanship. Each lambskin, processed by master hands, transforms into a unique canvas to bring designers' visions to life. We offer quality and heritage for your creativity."
+    },
+
+  "Introduction": {
+  "title": "CINAR LEATHER - WHO ARE WE?",
+  "title2": "Breathing Life into Leather",
+  "title3": "Shaped with Mastery",
+  "title4": "Defined by Elegance",
+  "text": "At Cinar Leather, we reflect quality and craftsmanship in every piece, inspired by tradition and elevated through modern design. We don't just work with leather – we give it character, elegance, and a timeless presence. Each of our products is a unique harmony of mastery and simplicity.",
+  "button1": "Explore Our Factory",
+  "button2": "Contact us"
+  },
+  
+  "whyCinarSection": {
+    "headline": "Why should I choose Çınar Leather?",
+    "subHeadline": "We adhere to three core principles: high performance, reliability, and innovation.",
+    "title1": "Reliability",
+    "title2": "High Performance",
+    "title3": "Innovation",
+    "title4": "24/7 Support",
+    "decription1": "At Çınar Leather, we adhere to quality standards at every stage and ensure your projects are implemented safely.",
+    "decription2": "We operate with maximum efficiency in our production and service processes and provide quick solutions to your needs.",
+    "decription3": "We closely follow the latest trends and technologies in the leather industry and develop modern solutions.",
+    "decription4": "We prioritize customer satisfaction and provide professional support that is always accessible."
+  },
+
+  "GalleryItem": {
+    "uretim": "Production Gallery",
+    "aciklama": "Images from Çınar Leather's production process with our modern machinery and experienced team."
+  },
+
+  "Footer": {
+    "deri": "Deri",
+    "slogan": "Art in Every Touch, Quality in Every Layer.",
+    "destek": "Support",
+    "sss": "FAQ",
+    "iletisim": "Contact",
+    "hakkimizda": "About Us",
+    "misyonumuz": "Our Mission",
+    "vizyonumuz": "Our Vision",
+    "projelerimiz": "Our Factory",
+    "blog": "Blog",
+    "hizmetlerimiz": "Our Values",
+    "topluluk": "Community",
+    "kurulus": "Establishment & History",
+    "uretim": "Production Quality",
+    "urun": "Product Variety",
+    "surudurulebilir": "Sustainability & Responsibility",
+    "altMetin": "Çınar Deri. All rights reserved © 2025.",
+    "cüzdan": "Import & Export",
+    "kemer": "Raw Materials & Leather Sourcing",
+    "canta": "Production Process",
+    "bakim": "Quality & Certifications",
+    "gravur": "Legal Compliance & Ethics",
+    "kurumsal": "International Wholesale Trade"
+  },
+
+  "Contact": {
+    "title": "Our Contact Channels",
+    "description": "We’re here to discuss your project, answer questions, or schedule a free discovery meeting.",
+    "addressTitle": "Our Address",
+    "address": "Karma OSB, 7. Cd. No:28 Merkez/Uşak",
+    "openInMapsText": "Open in Google Maps",
+    "phoneTitle": "Phone",
+    "phone": "+90 (505) 001 95 28",
+    "phoneHintText": "Call us for quick inquiries.",
+    "emailTitle": "Email",
+    "email": "info@usakcinarderi.com",
+    "emailHintText": "For detailed information and quote requests.",
+    "hoursTitle": "Working Hours",
+    "workingHours": "Monday - Saturday: 09:00 - 19:00 Closed on Sundays.",
+    "mapTitle": "Location Map"
+  },
+
+  "About": {
+    "heading": "About Us",
+    "subheading": "Discover the story and craftsmanship of the Çınar Leather family.",
+    "aboutImageAlt": "Çınar Leather Workshop Image",
+    "aboutSubtitle": "From Past to Present",
+    "aboutTitle": "About Çınar Leather",
+    "aboutText": "Çınar Leather is a family business that masterfully works the finest cowhides with years of experience and a modern design approach. Every product reflects our meticulous craftsmanship, ensuring top customer satisfaction. From day one to today, we've become a trusted brand in the industry through innovative solutions and sustainable processes.",
+    "missionTitle": "Our Mission",
+    "missionText": "At Çınar Leather, our mission is to enhance our customers’ quality of life by offering aesthetically and functionally superior, high-quality, and sustainable leather products.",
+    "visionTitle": "Our Vision",
+    "visionText": "Our vision is to make Çınar Leather a globally recognized, leading leather brand known for innovative design and quality.",
+    "valuesTitle": "Our Core Values",
+    "valuesText": "Guided by principles of integrity, craftsmanship, innovation, and sustainability in every step we take.",
+    "coreValuesHeading": "The Foundation of Our Work: Our Values",
+    "coreValuesSubheading": "The fundamental principles that guide every decision and action we take.",
+    "card1Title": "Unconditional Customer Satisfaction",
+    "card1Text": "Our customers are at the heart of every project. We focus on your needs and deliver solutions that exceed expectations.",
+    "card2Title": "Superior Quality & Craftsmanship",
+    "card2Text": "We never compromise on material selection or workmanship, delivering durable and aesthetically pleasing products.",
+    "card3Title": "Complete Trust & Transparency",
+    "card3Text": "We build trust through transparent communication and an honest approach in all our processes.",
+    "card4Title": "Innovative & Modern Approach",
+    "card4Text": "We stay abreast of industry trends and new materials to create functional and contemporary designs.",
+    "card5Title": "Professionalism & Expertise",
+    "card5Text": "Our experienced team provides high-standard service from project management to execution.",
+    "card6Title": "On-Time & Seamless Delivery",
+    "card6Text": "We adhere to scheduled timelines to deliver your projects flawlessly and on time.",
+    "card7Title": "Solution-Oriented",
+    "card7Text": "We approach every challenge with proactive and creative solutions.",
+    "card8Title": "Sustainability Commitment",
+    "card8Text": "We add value to the future with eco-friendly material choices and energy-efficient processes."
+  },
+
+  "Blog": {
+      "blog": "Blog",
+      "mainTitle": "Industry News, Technical Info, and Trends from the Manufacturer.",
+      "devaminiOku": "Read More",
+      "close": "Close",
+      "posts": [
+        {
+          "title": "How to Choose Leather?",
+          "excerpt": "Thickness, finish, flexibility. The keys to your project.",
+          "content": "We analyze leather types and tanning methods to help you choose the best material for your needs."
+        },
+        {
+          "title": "Leather Trends: F/W 2025",
+          "excerpt": "Discover the main colors and textures of the season.",
+          "content": "From earth tones to pastels. Inspiration for your new collections."
+        },
+        {
+          "title": "The Art of Tanning",
+          "excerpt": "The journey of leather: from raw hide to premium material in our factory.",
+          "content": "A brief overview of the stages: selection, dyeing, and finishing of the hides."
+        },
+        {
+          "title": "Sustainable Production",
+          "excerpt": "Our eco-friendly technologies and responsible approach.",
+          "content": "Reducing water consumption and using safe dyes is our contribution to the future."
+        },
+        {
+          "title": "Leather Color Trends",
+          "excerpt": "The leather color palette for the autumn-winter 2025 season.",
+          "content": "This season, burgundy, olive, and deep brown tones are trending for collections."
+        },
+        {
+          "title": "Leather Quality FAQs",
+          "excerpt": "Frequently asked questions about durability and properties.",
+          "content": "Answers to questions about wear resistance, elasticity, and material care in production."
+        },
+        {
+          "title": "Custom Orders",
+          "excerpt": "Developing unique colors and textures for your brand.",
+          "content": "We offer services to create exclusive batches of leather to your specifications."
+        },
+        {
+          "title": "Advantages of Natural Leather",
+          "excerpt": "Why you should choose natural leather over synthetics.",
+          "content": "Natural leather is breathable, durable, and develops a unique character over time."
+        },
+        {
+          "title": "Leather Care in Production",
+          "excerpt": "Recommendations for storing and processing leather.",
+          "content": "Proper storage and processing of leather at your facility to maintain quality."
+        },
+        {
+          "title": "Supply Chain Organization",
+          "excerpt": "How we ensure timely delivery of batches.",
+          "content": "Our logistics solutions for efficient and fast delivery of orders."
+        },
+        {
+          "title": "Trends in Textures",
+          "excerpt": "Popular leather textures for the new season.",
+          "content": "Smooth nappa and velvety suede are this season's favorites. Add them to your designs."
+        },
+        {
+          "title": "Material Ergonomics",
+          "excerpt": "How to choose leather thickness and density for products?",
+          "content": "Recommendations on selecting leather characteristics to ensure comfort in the final product."
+        },
+        {
+          "title": "Guide to Leather Types",
+          "excerpt": "A brief overview of different leather types and their applications.",
+          "content": "Nappa, suede, nubuck—we explain the features of each type for the right choice."
+        },
+        {
+          "title": "Finishing Technologies Review",
+          "excerpt": "Modern methods of leather finishing.",
+          "content": "Natural waxes and oils improve the appearance and durability of the leather."
+        },
+        {
+          "title": "Visit Our Factory",
+          "excerpt": "See the production process with your own eyes.",
+          "content": "We invite partners to visit our production facility and meet our masters."
+        },
+        {
+          "title": "Sustainable Leather Production",
+          "excerpt": "Our eco-friendly manufacturing methods.",
+          "content": "We recycle waste materials and use eco-friendly dyes and tanning methods."
+        },
+        {
+          "title": "Sources of Inspiration",
+          "excerpt": "The creative process behind new collections.",
+          "content": "Nature and architecture are the main sources of inspiration for our new textures."
+        },
+        {
+          "title": "New Collection Announcement",
+          "excerpt": "Our summer leather collection will be available soon!",
+          "content": "Bright colors and light textures for your summer collections. Launching in September."
+        },
+        {
+          "title": "Leather for Small Goods",
+          "excerpt": "Aesthetics and functionality in our materials.",
+          "content": "Our leathers with minimalist finishes are ideal for creating stylish goods."
+        },
+        {
+          "title": "News from Çınar Deri",
+          "excerpt": "The latest company events and updates.",
+          "content": "Learn about our new technologies, participation in trade shows, and projects."
+        }
+      ]
+    },
+
+  "Project":{
+    "projects": {
+    "featured": {
+      "title": "Our Factory",
+      "description": "Snapshots of our advanced equipment and expert team’s production process."
+    },
+    "list": {
+      "cuzdan": {
+    "title": "Import & Export",
+    "description": "We process the leathers sourced from Uşak and export them to global markets."
+  },
+  "kemer": {
+    "title": "Raw Materials & Leather Sourcing",
+    "description": "Carefully selected lamb skins guarantee quality and durability."
+  },
+  "canta": {
+    "title": "Production Process",
+    "description": "We carry out every stage from cutting to packaging with transparency and precision."
+  },
+  "bakim": {
+    "title": "Quality & Certifications",
+    "description": "We document the reliability of our products with ISO, CE, and TÜRKAK certifications."
+  },
+  "gravur": {
+    "title": "Legal Compliance & Ethics",
+    "description": "We conduct all our activities in accordance with regulations and ethical principles."
+  },
+  "kurumsal": {
+    "title": "International Wholesale Trade",
+    "description": "With our global wholesale network, we confidently offer your products to our business partners."
+  }
+    },
+    "all": {
+      "title": "Factory Tour",
+      "description": "Discover our facilities step by step."
+    },
+    "buttons": {
+      "discover": "Start Tour",
+      "more": "Details"
+    }
+  },
+  "approach": {
+    "title": "Our Production Approach",
+    "description": "We carry out our production processes at our factory guided by principles of efficiency, quality, and sustainability.",
+    "steps": {
+      "discovery": {
+        "title": "Planning & Preparation",
+        "description": "We analyze order requirements and plan the production line and materials."
+      },
+      "communication": {
+        "title": "Transparent Communication",
+        "description": "We share processes and delivery schedules through regular updates during production."
+      },
+      "quality": {
+        "title": "Quality & Inspection",
+        "description": "We ensure product standards with strict quality controls and tests at every stage."
+      }
+    }
+  }
+  },
+
+  "Services": {
+    "hizmetlerimiz": "Our Values",
+
+    "mainTitle": "Welcome to Çınar Leather’s proud heritage and the responsibility we carry into the future. Excellence and trust accompany you at every step.",
+    "title1": "Import & Export",
+    "text1": "We process hides sourced from Uşak and export them to global markets.",
+    "title2": "Raw Materials & Leather Sourcing",
+    "text2": "Carefully selected lamb skins guarantee quality and durability.",
+    "title3": "Production Process",
+    "text3": "With transparent procedures and expert teams, we deliver a flawless experience from leather cutting to assembly.",
+    "title4": "Quality & Certifications",
+    "text4": "We certify our products’ reliability with ISO certifications and our testing laboratory.",
+    "title5": "Legal Compliance & Ethics",
+    "text5": "We adhere to ethical and legal standards through environmentally friendly production and respect for workers’ rights.",
+    "title6": "International Wholesale Trade",
+    "text6": "We offer the leathers produced in Uşak to global markets in wholesale, using our international logistics network for fast and reliable delivery.",
+
+    "button": "Contact Us",
+    "gozAt": "Explore"
+  },
+
+  "MissionVision": {
+    "misyonVizyon": "Mission & Vision",
+    "mainTitle": "Discover where we come from and where we aim to go at Çınar Leather."
+  },
+
+  "SliderHeadline": {
+      "title1": "Millimetric Precision, Superior Quality",
+      "text1": "We process Uşak's most precious lamb leather with the master hands of Çınar Deri. Capture the perfect touch with us that will bring your designs to life.",
+      "title2": "Where Nature Meets Art",
+      "text2": "We transform each sheet of leather into a work of art with unique textures and colors. We are ready to be your source of inspiration for your collections.",
+      "title3": "Limitless Colors and Textures",
+      "text3": "For the designs of your dreams, we offer custom leather solutions for your project with our rich color palette and special processing techniques.",
+      "title4": "Sustainable Craftsmanship",
+      "text4": "With our nature-respecting production approach, we process the highest quality leather with eco-friendly processes, leaving a responsible legacy for the future."
+    },
+ 
+  "StoryTelling": {
+    "title1": "Young and Passionate Beginning",
+    "text1": "Çınar Leather brings together quality and care in leather products with a young and dynamic team. Each piece is designed and crafted with passion.",
+    "title2": "Handcraftsmanship and Attention to Detail",
+    "text2": "We combine traditional handcraftsmanship with modern design in our products. Every stitch and detail is made for quality and durability.",
+    "title3": "Elegant and Functional Designs",
+    "text3": "Elegance and functionality together; we create accessories that will be with you in every moment of your daily life.",
+    "title4": "Customer Satisfaction and Sustainability",
+    "text4": "Customer satisfaction and sustainable production are our priorities. We offer long-lasting products with eco-friendly materials."
+  },
+
+  "HandmadeWallet": {
+    "hero": {
+    "tag": "IMPORT & EXPORT",
+    "title": "Çınar Leather Global Trade Hub",
+    "description": "From our logistics bases in Uşak, we seamlessly deliver our leather products to international markets."
+  },
+  "cta": {
+    "title": "Explore Our Trade Network",
+    "description": "Learn about our import & export processes, storage, and shipping infrastructure.",
+    "contactButton": "Contact Us",
+    "projectsButton": "Our Logistics Network"
+  },
+  "production": {
+    "title": "Trade Process Steps",
+    "steps": {
+      "1": {
+        "title": "Goods Receipt & Quality Control",
+        "description": "We ensure that the imported raw hides meet our strict quality standards.",
+        "label": "STEP 1"
+      },
+      "2": {
+        "title": "Storage & Pre-Shipment",
+        "description": "Products are stored in our climate-controlled warehouses and prepared for shipment."
+      },
+      "3": {
+        "title": "Customs & Documentation",
+        "description": "We meticulously complete customs declarations and required paperwork in compliance with local and international regulations."
+      },
+      "4": {
+        "title": "International Shipping",
+        "description": "We provide safe and timely delivery through our partners via road, sea, and air transport."
+      },
+      "5": {
+        "title": "Delivery & Tracking",
+        "description": "We deliver goods to their destination with transparent tracking until they reach the customer.",
+        "label": "COMPLETED"
+      }
+    }
+  },
+  "processing": {
+    "title": "Logistics & Operations Features",
+    "features": {
+      "1": {
+        "title": "Multimodal Transport",
+        "description": "Flexible logistics solutions by road, sea, and air."
+      },
+      "2": {
+        "title": "Fast Customs Clearance",
+        "description": "Our expert team completes customs procedures with minimal delays."
+      },
+      "3": {
+        "title": "Real-Time Tracking",
+        "description": "Track every step of your shipment on our digital platform."
+      },
+      "4": {
+        "title": "Secure Storage",
+        "description": "Products are protected in our climate-controlled, insured warehouses."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Trade Success Stories",
+    "stories": {
+      "1": {
+        "title": "New Market Entry",
+        "description": "Our first shipment to Asia was completed with high satisfaction and expedited customs clearance."
+      },
+      "2": {
+        "title": "Digital Tracking Integration",
+        "description": "Our tracking portal raised shipment visibility to 100% for our clients."
+      },
+      "3": {
+        "title": "Flexible Transport Model",
+        "description": "Urgent orders by air and large volumes by sea—optimizing cost and time."
+      }
+    }
+  },
+  "features": {
+    "title": "Why Choose Çınar Leather Import & Export?",
+    "items": {
+      "1": {
+        "title": "Global Logistics Network",
+        "description": "A worldwide transportation network with trusted partners."
+      },
+      "2": {
+        "title": "Expert Customs Services",
+        "description": "Our experienced team ensures flawless preparation of all trade documents."
+      },
+      "3": {
+        "title": "Flexible Storage Solutions",
+        "description": "Short- and long-term climate-controlled storage options."
+      },
+      "4": {
+        "title": "Transparent Tracking & Reporting",
+        "description": "Real-time updates and detailed performance reports for every shipment."
+      }
+    }
+  }
+  },
+
+  "BagPortfolio": {
+    "hero": {
+    "tag": "OUR PRODUCTION PROCESS",
+    "title": "Step-by-Step Excellence in Leather Production",
+    "description": "At Çınar Leather’s factory, precision and transparency are paramount at every stage—from the finest raw materials to final assembly."
+  },
+  "cta": {
+    "title": "Want to See Our Production Up Close?",
+    "description": "Explore every step from cutting to finishing with our expert team on a guided or virtual tour.",
+    "contactButton": "Contact Us",
+    "projectsButton": "Process Gallery"
+  },
+  "production": {
+    "title": "Production Workflow",
+    "steps": {
+      "1": {
+        "title": "Raw Material Selection",
+        "description": "Certified lamb hides are sorted by quality, thickness, and flexibility.",
+        "label": "STEP 1"
+      },
+      "2": {
+        "title": "Cutting & Pre-Processing",
+        "description": "Precision cutting machines ensure millimeter-perfect parts and surface preparation."
+      },
+      "3": {
+        "title": "Tanning & Coloring",
+        "description": "Vegetable tanning and hand-finishing deliver durable, vibrant hues."
+      },
+      "4": {
+        "title": "Stitching & Assembly",
+        "description": "Double-stitch techniques and precise assembly extend product lifespan."
+      },
+      "5": {
+        "title": "Edge Finishing & Polishing",
+        "description": "Edges are smoothed, sealed, and polished for lasting protection and sheen.",
+        "label": "STEP 5"
+      },
+      "6": {
+        "title": "Quality Inspection",
+        "description": "Each piece undergoes rigorous tests for color, consistency, and durability."
+      },
+      "7": {
+        "title": "Packaging & Shipping",
+        "description": "Careful packaging and fast logistics ensure your products arrive safely.",
+        "label": "STEP 7"
+      }
+    }
+  },
+  "processing": {
+    "title": "Technologies We Use",
+    "features": {
+      "1": {
+        "title": "Automated Cutting Systems",
+        "description": "High-precision CNC machines minimize material waste."
+      },
+      "2": {
+        "title": "Eco-Friendly Tanning",
+        "description": "Water-saving and biodegradable tanning solutions are employed."
+      },
+      "3": {
+        "title": "Robotic Assembly Support",
+        "description": "Robotic arms ensure consistent quality in critical assembly steps."
+      },
+      "4": {
+        "title": "Smart Tracking & Traceability",
+        "description": "A digital barcode system provides full transparency for each batch."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Inspiring Production Stories",
+    "stories": {
+      "1": {
+        "title": "99% Accuracy",
+        "description": "Automated cutting reduced our error rate from 5% to 1%."
+      },
+      "2": {
+        "title": "Green Tanning Success",
+        "description": "Our new tanning line cut water usage by 40%."
+      },
+      "3": {
+        "title": "Swift Order Fulfillment",
+        "description": "Optimized workflows ensure on-time, complete deliveries."
+      }
+    }
+  },
+  "features": {
+    "title": "What Sets Our Process Apart",
+    "items": {
+      "1": {
+        "title": "Full Transparency",
+        "description": "Real-time reporting and tracking at every stage."
+      },
+      "2": {
+        "title": "High Capacity & Flexibility",
+        "description": "Quickly adapt from small bespoke runs to large-scale orders."
+      },
+      "3": {
+        "title": "Sustainable Practices",
+        "description": "Energy-efficient equipment and eco-friendly chemicals."
+      },
+      "4": {
+        "title": "Expert Team",
+        "description": "Our engineers and craftsmen bring years of specialized experience."
+      }
+    }
+  }
+  },
+
+  "BeltAccessory": {
+   "hero": {
+    "tag": "RAW MATERIALS & LEATHER SOURCING",
+    "title": "Lamb Hides Selected to the Highest Quality Standards",
+    "description": "At Çınar Leather, we use lamb hides carefully selected from certified suppliers, ensuring full traceability from raw material to finished product."
+  },
+  "cta": {
+    "title": "Discover Our Sourcing Process",
+    "description": "Contact us to learn every step—from supplier selection to quality certifications.",
+    "contactButton": "Contact Us",
+    "projectsButton": "Our Supplier Network"
+  },
+  "production": {
+    "title": "Our Sourcing & Pre-Processing Workflow",
+    "steps": {
+      "1": {
+        "title": "Supplier Assessment",
+        "description": "We carefully select farms and tanneries certified to international standards.",
+        "label": "STEP 1"
+      },
+      "2": {
+        "title": "Raw Hide Selection",
+        "description": "Hides undergo thorough physical inspection based on defect, thickness, and flexibility criteria."
+      },
+      "3": {
+        "title": "Cleaning & Conservation",
+        "description": "Pre-cleaning with natural salts and mild chemicals prepares the hide surface for processing."
+      },
+      "4": {
+        "title": "Vegetable Tanning Prep",
+        "description": "We achieve optimal extract concentration and pH levels for vegetable tanning solutions."
+      },
+      "5": {
+        "title": "Storage & Dispatch",
+        "description": "Hides are stored in climate-controlled facilities and packed for custom shipment.",
+        "label": "STEP 5"
+      }
+    }
+  },
+  "processing": {
+    "title": "Our Raw Material Quality Controls",
+    "features": {
+      "1": {
+        "title": "Certified Sourcing",
+        "description": "We provide veterinary health reports and environmental compliance documents for every batch."
+      },
+      "2": {
+        "title": "Physical Testing Protocols",
+        "description": "Flexibility, durability, and moisture-resistance tests measure each hide batch’s performance."
+      },
+      "3": {
+        "title": "Color & Tone Consistency Checks",
+        "description": "Pre- and post-tanning color consistency is verified with a spectrophotometer."
+      },
+      "4": {
+        "title": "Sustainable Resource Management",
+        "description": "Eco-friendly tanning chemicals and wastewater treatment systems help us maintain ecological balance."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Our Sourcing Stories",
+    "stories": {
+      "1": {
+        "title": "Local Farm Partnerships",
+        "description": "Sourcing hides directly from regional family farms brings local quality to a global scale."
+      },
+      "2": {
+        "title": "International Standards",
+        "description": "We enhance our diversity by working with certified suppliers from Europe and North America."
+      },
+      "3": {
+        "title": "Green Tanning Initiative",
+        "description": "Our vegetable tanning facility develops eco-friendly methods that save water and energy."
+      }
+    }
+  },
+  "features": {
+    "title": "Key Features of Our Material Selection",
+    "items": {
+      "1": {
+        "title": "Full Transparency",
+        "description": "We guarantee traceability and documentation at every step of our supply chain."
+      },
+      "2": {
+        "title": "Superior Physical Strength",
+        "description": "Rigorous tests prove each hide’s flexibility and tear resistance."
+      },
+      "3": {
+        "title": "Natural Color Consistency",
+        "description": "Vegetable tanning delivers unique, vibrant hues in every batch."
+      },
+      "4": {
+        "title": "Eco-Friendly Practices",
+        "description": "We ensure sustainability with wastewater treatment and recyclable tanning agents."
+      }
+    }
+  }
+  },
+
+  "BakimVeOnarim": {
+   "hero": {
+    "tag": "QUALITY & CERTIFICATIONS",
+    "title": "Our International Quality Standards & Certifications",
+    "description": "At Çınar Leather, we equip every product with certifications such as ISO, CE, TÜRKAK, and REACH—guaranteeing quality at every stage."
+  },
+  "cta": {
+    "title": "Access Our Quality Documents",
+    "description": "Contact us for the full list of certifications and test reports, or request a digital copy.",
+    "contactButton": "Contact Us",
+    "projectsButton": "Test Reports"
+  },
+  "production": {
+    "title": "Our Quality Management Process",
+    "steps": {
+      "1": {
+        "title": "Defining Quality Policy",
+        "description": "We establish our quality policy based on customer expectations and legal requirements.",
+        "label": "STEP 1"
+      },
+      "2": {
+        "title": "Documentation & Planning",
+        "description": "We document all procedures in written protocols and clarify responsibilities."
+      },
+      "3": {
+        "title": "Implementation & Training",
+        "description": "We provide regular training to our staff and enforce quality standards on the floor."
+      },
+      "4": {
+        "title": "Monitoring & Measurement",
+        "description": "We continuously monitor production performance and analyze measurement results."
+      },
+      "5": {
+        "title": "Corrective & Preventive Actions",
+        "description": "We act immediately on non-conformities to improve our processes.",
+        "label": "COMPLETED"
+      }
+    }
+  },
+  "processing": {
+    "title": "Our Test & Inspection Laboratory",
+    "features": {
+      "1": {
+        "title": "Physical Durability Tests",
+        "description": "We document leather performance with abrasion, tear, and flexibility tests."
+      },
+      "2": {
+        "title": "Chemical Analyses",
+        "description": "We conduct lab analyses to ensure compliance with REACH and heavy-metal limits."
+      },
+      "3": {
+        "title": "Color & Tone Consistency",
+        "description": "We verify batch-to-batch color uniformity using spectrophotometer measurements."
+      },
+      "4": {
+        "title": "Environmental Compliance Audits",
+        "description": "We control our environmental impact through wastewater and emission testing."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Our Quality Success Stories",
+    "stories": {
+      "1": {
+        "title": "ISO 9001:2015 Certification",
+        "description": "By certifying to the international quality standard, we have increased customer satisfaction."
+      },
+      "2": {
+        "title": "CE Conformity Approval",
+        "description": "CE marking guarantees the safety of our products for the European market."
+      },
+      "3": {
+        "title": "TÜRKAK Accreditation",
+        "description": "Our accredited laboratory testing provides full traceability."
+      }
+    }
+  },
+  "features": {
+    "title": "Why Çınar Leather Quality?",
+    "items": {
+      "1": {
+        "title": "International Standards",
+        "description": "Guaranteed compliance with ISO, CE, REACH, and TÜRKAK certifications."
+      },
+      "2": {
+        "title": "Transparent Reporting",
+        "description": "We provide detailed test reports for every production batch."
+      },
+      "3": {
+        "title": "In-House Laboratory",
+        "description": "Our fully equipped lab conducts tests and inspections 24/7."
+      },
+      "4": {
+        "title": "Continuous Improvement",
+        "description": "We raise quality continuously through corrective actions and customer feedback."
+      }
+    }
+  }
+  },
+
+  "Gravur": {
+    "hero": {
+    "tag": "LEGAL COMPLIANCE & ETHICS",
+    "title": "Full Transparency and Legal Assurance in Production",
+    "description": "At Çınar Leather, we conduct all our activities in full compliance with current regulations and within an ethical framework."
+  },
+  "cta": {
+    "title": "Explore Our Compliance Policies",
+    "description": "Contact us for detailed information on our legal documents, certifications, and ethical principles.",
+    "contactButton": "Contact Us",
+    "projectsButton": "Our Ethics Reports"
+  },
+  "production": {
+    "title": "Our Compliance Process",
+    "steps": {
+      "1": {
+        "title": "Legal Requirements Analysis",
+        "description": "We continuously monitor laws and industry regulations and prepare compliance plans tailored to our needs.",
+        "label": "STEP 1"
+      },
+      "2": {
+        "title": "Risk Assessment",
+        "description": "We identify potential legal and ethical risks in our supply and production chain and implement preventive measures."
+      },
+      "3": {
+        "title": "Standardization & Documentation",
+        "description": "We convert all processes into written procedures and maintain thorough records."
+      },
+      "4": {
+        "title": "Training & Awareness",
+        "description": "We regularly train our employees on legal and ethical matters to ensure full awareness."
+      },
+      "5": {
+        "title": "Auditing & Reporting",
+        "description": "Through internal and third-party audits, we verify compliance and prepare improvement reports.",
+        "label": "COMPLETED"
+      }
+    }
+  },
+  "processing": {
+    "title": "Our Ethics & Compliance Policies",
+    "features": {
+      "1": {
+        "title": "Transparent Supply Chain",
+        "description": "We audit our suppliers’ adherence to labor rights, environmental, and legal standards."
+      },
+      "2": {
+        "title": "Environmental & Workplace Safety",
+        "description": "From production chemicals to safety protocols, we manage all processes with environmental and human well-being in mind."
+      },
+      "3": {
+        "title": "Data Privacy & Security",
+        "description": "We protect customer and employee data in accordance with KVKK and GDPR requirements."
+      },
+      "4": {
+        "title": "Social Responsibility",
+        "description": "We share our ethical values with the community through social responsibility initiatives and volunteer programs."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Our Compliance & Ethics Success Stories",
+    "stories": {
+      "1": {
+        "title": "Independent Audit Approval",
+        "description": "We secured a full compliance report from an international audit firm, reinforcing our credibility."
+      },
+      "2": {
+        "title": "Green Production Certification",
+        "description": "Our eco-friendly practices earned us the “Sustainable Factory” certification."
+      },
+      "3": {
+        "title": "Employee Safety Certification",
+        "description": "Our health and safety trainings culminated in a workplace safety management system certification."
+      }
+    }
+  },
+  "features": {
+    "title": "Why We Lead in Ethics & Compliance",
+    "items": {
+      "1": {
+        "title": "Legal Assurance",
+        "description": "All our operations are guaranteed to fully comply with legal requirements."
+      },
+      "2": {
+        "title": "Continuous Auditing",
+        "description": "We ensure uninterrupted compliance through ongoing internal and external audits."
+      },
+      "3": {
+        "title": "Proactive Approach",
+        "description": "We track legislative changes in real time and update our processes accordingly."
+      },
+      "4": {
+        "title": "Community Engagement",
+        "description": "We prioritize social responsibility projects that reflect our ethical values to society."
+      }
+    }
+  }
+  },
+
+  "Kurumsal": {
+    "hero": {
+    "tag": "INTERNATIONAL WHOLESALE",
+    "title": "Global Bulk Leather Distribution",
+    "description": "Leveraging our production capacity in Uşak and extensive logistics network, we deliver your leather products wholesale to partners worldwide."
+  },
+  "cta": {
+    "title": "Join Our Wholesale Network",
+    "description": "Get detailed information on our international trade solutions and logistics services.",
+    "contactButton": "Contact Us",
+    "projectsButton": "Our Distributor Network"
+  },
+  "production": {
+    "title": "Trade Process Steps",
+    "steps": {
+      "1": {
+        "title": "Order & Scheduling",
+        "description": "We finalize product selection and delivery timelines to match your corporate volume.",
+        "label": "STEP 1"
+      },
+      "2": {
+        "title": "Packaging & Documentation",
+        "description": "We prepare durable packaging and customs documents for bulk shipments."
+      },
+      "3": {
+        "title": "Customs Clearance & Approval",
+        "description": "We complete customs procedures in compliance with national and international regulations."
+      },
+      "4": {
+        "title": "Transport & Logistics",
+        "description": "We ensure safe delivery via sea, road, and air freight partners."
+      },
+      "5": {
+        "title": "Delivery & Tracking",
+        "description": "We confirm delivery with transparent tracking reports from origin to destination.",
+        "label": "COMPLETED"
+      }
+    }
+  },
+  "processing": {
+    "title": "Our Logistics & Support Services",
+    "features": {
+      "1": {
+        "title": "Multimodal Transport",
+        "description": "We offer flexible solutions combining road, sea, and air transport."
+      },
+      "2": {
+        "title": "Real-Time Tracking",
+        "description": "Track every step of your shipment through our digital platform."
+      },
+      "3": {
+        "title": "Storage & Distribution",
+        "description": "Strategic warehouses enable fast delivery to destinations around the globe."
+      },
+      "4": {
+        "title": "Continuous Customer Support",
+        "description": "Our project managers provide coordinated support and advice throughout."
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Our Trade Success Stories",
+    "stories": {
+      "1": {
+        "title": "Entry into the Asian Market",
+        "description": "Our first major shipment to Asia arrived flawlessly, delighting our regional partners."
+      },
+      "2": {
+        "title": "E-Commerce Integration",
+        "description": "Our online wholesale platform gives global customers 24/7 access."
+      },
+      "3": {
+        "title": "Scalable Deliveries",
+        "description": "We maintained on-time, complete deliveries even for large-volume orders."
+      }
+    }
+  },
+  "features": {
+    "title": "Why Choose Çınar Leather International Wholesale?",
+    "items": {
+      "1": {
+        "title": "Extensive Global Network",
+        "description": "We collaborate with leading distributors and logistics partners worldwide."
+      },
+      "2": {
+        "title": "Flexible Business Models",
+        "description": "We offer scalable solutions from small batches to large volumes."
+      },
+      "3": {
+        "title": "Fast & Reliable Delivery",
+        "description": "Optimal routes and prioritized transit options save you time."
+      },
+      "4": {
+        "title": "Professional Consultancy",
+        "description": "Our experienced team supports you with regulations, customs, and logistics at every step."
+      }
+    }
+  }
+  }
+}
